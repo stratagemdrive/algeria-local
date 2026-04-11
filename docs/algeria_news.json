@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T23:35:12Z",
+  "generated_at": "2026-04-11T11:31:32Z",
   "country": "Algeria",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Everyone has their own prediction",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/a-chacun-sa-prediction-6149",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Honoring sports and media figures during the FAF General Assembly",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%aa%d9%83%d8%b1%d9%8a%d9%85-%d9%88%d8%ac%d9%88%d9%87-%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a9-%d9%88%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d8%a9-%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%ac%d9%85%d8%b9",
+      "published_date": "2026-04-11T10:14:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Within a national strategy to enhance exports... Tosyali, Algeria enhances iron exports to Europe",
       "source": "Ennahar Online",
@@ -137,18 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shots in the air and threats of “martyr death”: an Algerian arrested in France after disturbing videos",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/tirs-en-lair-et-menaces-de-mort-en-martyr-un-algerien-arrete-en-france-apres-des-videos-inquietantes/",
-      "published_date": "2026-04-09T13:29:55Z",
-      "category": "Diplomacy"
+      "title": "Reuters: Mojtaba Khamenei is recovering from severe wounds and disfigurements",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%b1%d9%88%d9%8a%d8%aa%d8%b1%d8%b2-%d9%85%d8%ac%d8%aa%d8%a8%d9%89-%d8%ae%d8%a7%d9%85%d9%86%d8%a6%d9%8a-%d9%8a%d8%aa%d8%b9%d8%a7%d9%81%d9%89-%d9%85%d9%86-%d8%ac%d8%b1%d9%88%d8%ad-%d9%88%d8%aa%d8%b4",
+      "published_date": "2026-04-11T10:06:51Z",
+      "category": "Military"
     },
     {
-      "title": "New Highway Code: When will it be applied? A ministry official responds",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/nouveau-code-de-la-route-quand-va-t-il-etre-applique-un-responsable-au-ministere-repond/",
-      "published_date": "2026-04-09T13:12:28Z",
-      "category": "Diplomacy"
+      "title": "“A war criminal and a maniac.” A fiery response from a Spanish official to Netanyahu",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%85%d8%ac%d8%b1%d9%85-%d8%ad%d8%b1%d8%a8-%d9%88%d9%85%d9%87%d9%88%d9%88%d8%b3-%d8%b1%d8%af-%d9%86%d8%a7%d8%b1%d9%8a-%d9%85%d9%86-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d8%a9-%d8%a5%d8%b3%d8%a8%d8%a7",
+      "published_date": "2026-04-11T09:18:48Z",
+      "category": "Military"
     },
     {
       "title": "Major General Mujahid on a working visit to the Sultanate of Oman",
@@ -277,18 +291,39 @@
       "category": "Military"
     },
     {
-      "title": "The other face of Iran: a scientific power that worries Israel",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/lautre-visage-de-liran-une-puissance-scientifique-qui-inquiete-israel/",
-      "published_date": "2026-04-08T07:04:52Z",
-      "category": "Military"
+      "title": "Handing over and receiving tasks in the mining sector between Arkab and Hanifi",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%aa%d8%b3%d9%84%d9%8a%d9%85-%d9%88%d8%a7%d8%b3%d8%aa%d9%84%d8%a7%d9%85-%d9%85%d9%87%d8%a7%d9%85-%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ac%d9%85-%d8%a8%d9%8a%d9%86-%d8%b9%d8%b1",
+      "published_date": "2026-04-11T11:13:45Z",
+      "category": "Energy"
     },
     {
-      "title": "Ceasefire between Iran and the United States",
+      "title": "Delivering and receiving mining sector tasks",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d8%b3%d9%84%d9%8a%d9%85-%d9%88%d8%a7%d8%b3%d8%aa%d9%84%d8%a7%d9%85-%d9%85%d9%87%d8%a7%d9%85-%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ac%d9%85/",
+      "published_date": "2026-04-11T10:48:40Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil prices decline",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-13/",
+      "published_date": "2026-04-11T10:03:31Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Discussing the acceleration of linking major agricultural projects in the south to energy",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a8%d8%ad%d8%ab-%d8%aa%d8%b3%d8%b1%d9%8a%d8%b9-%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%8a%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1",
+      "published_date": "2026-04-11T08:59:36Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Cherry tomatoes, steel…: Algeria launches an unprecedented export operation",
       "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/cessez-le-feu-entre-liran-et-les-etats-unis/",
-      "published_date": "2026-04-08T06:12:06Z",
-      "category": "Military"
+      "url": "https://www.tsa-algerie.com/tomates-cerises-acier-lalgerie-lance-une-operation-dexportation-inedite/",
+      "published_date": "2026-04-11T08:30:54Z",
+      "category": "Energy"
     },
     {
       "title": "“Excluding hydrocarbons”: Kick-off of the largest export operation for Made in DZ products",
@@ -396,39 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "Algeria on track to become a global zinc and lead giant",
+      "title": "Launching new investment projects in Ouargla to enhance economic diversification and support production chains",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d9%88%d8%b1%d9%82%d9%84%d8%a9-%d9%84",
+      "published_date": "2026-04-11T10:41:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Launching new investment projects in Ouargla Province",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d9%88/",
+      "published_date": "2026-04-11T10:39:02Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Raziq supervises the launch of 35 export operations",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b1%d8%b2%d9%8a%d9%82-%d9%8a%d8%b4%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-35-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%aa%d8%b5%d8%af%d9%8a%d8%b1/",
+      "published_date": "2026-04-11T10:20:11Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Eid-el-Adha: why local sheep is still so expensive in Algeria",
       "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/lalgerie-en-passe-de-devenir-un-geant-mondial-du-zinc-et-du-plomb/",
-      "published_date": "2026-04-06T20:28:09Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Investment in Algeria: More than 21,000 projects registered and concrete acceleration on the ground",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/investissement-en-algerie-plus-de-21000-projets-enregistres-et-une-acceleration-concrete-sur-le-terrain/",
-      "published_date": "2026-04-06T13:54:50Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Markets under pressure: after energy, Algerian fertilizers are attracting interest",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/marches-sous-pression-apres-lenergie-les-engrais-algeriens-suscitent-linteret/",
-      "published_date": "2026-04-06T10:05:50Z",
-      "category": "Energy"
-    },
-    {
-      "title": "From France to Algeria: Sheherazade and Yassine start from scratch… and it works",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/de-la-france-a-lalgerie-sheherazade-et-yassine-repartent-de-zero-et-ca-marche/",
-      "published_date": "2026-04-06T07:55:25Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Top 10 largest producers of lead and zinc: What is Algeria's new rank?",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/top-10-des-plus-grands-producteurs-de-plomb-et-zinc-quel-est-le-nouveau-rang-de-lalgerie/",
-      "published_date": "2026-04-05T11:19:13Z",
-      "category": "Energy"
+      "url": "https://www.tsa-algerie.com/aid-el-adha-pourquoi-le-mouton-local-coute-toujours-aussi-cher-en-algerie/",
+      "published_date": "2026-04-11T07:16:53Z",
+      "category": "Economy"
     },
     {
       "title": "Tomorrow, Saturday: the launch of the largest export operation to 19 countries",
@@ -543,171 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Imports: Algeria further strengthens its control system",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/importations-lalgerie-muscle-encore-son-dispositif-de-controle/",
-      "published_date": "2026-04-09T11:06:46Z",
-      "category": "Economy"
+      "title": "MSF suspends its operations",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
+      "published_date": "2026-04-11T15:58:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Residence permits in France: will the Nuñez plan reduce delays? Me Megherbi responds",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/titres-de-sejour-en-france-le-plan-nunez-va-t-il-reduire-les-delais-me-megherbi-repond/",
-      "published_date": "2026-04-08T20:15:49Z",
-      "category": "Economy"
+      "title": "How the 22 met at Lyes Derriche (July 25, 1954)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
+      "published_date": "2026-04-11T15:06:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "A player's season ends...and this is Shawshi's punishment",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%84%d8%a7%d8%b9%d8%a8-%d9%8a%d9%8f%d9%86%d9%92%d9%87%d9%8e%d9%89-%d9%85%d9%88%d8%b3%d9%85%d9%87-%d9%88%d9%87%d8%b0%d9%87-%d9%87%d9%8a-%d8%b9%d9%82%d9%88%d8%a8%d8%a9-%d8%b4%d8%a7%d9%88%d8%b4%d9%8a",
-      "published_date": "2026-04-08T19:03:06Z",
-      "category": "Economy"
+      "title": "Millions of people lack food during Ramadan",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/des-millions-de-personnes-manquent-de-nourriture-durant-le-ramadan-13",
+      "published_date": "2026-04-11T14:27:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Algerian dinar: why the euro is on the rise again on the official and parallel markets",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/dinar-algerien-pourquoi-leuro-repart-a-la-hausse-sur-les-marches-officiel-et-parallele/",
-      "published_date": "2026-04-08T17:50:33Z",
-      "category": "Economy"
+      "title": "Postponement until April 20 of the trial of the accused in the Metidji group affair",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/report-au-20-avril-du-proces-des-accuses-dans-l-affaire-du-groupe-metidji-16",
+      "published_date": "2026-04-11T13:35:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Infantino: “The FIFA Arena is exceptional and will elevate Algeria to a new era.”",
+      "title": "Sila 2022: Ahmed Benzelikha author of “Les Dupes” (Casbah éditions)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
+      "published_date": "2026-04-11T12:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: Adib Benazzi author of “Low tide” (Dalimen editions)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
+      "published_date": "2026-04-11T12:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: “Le Hic” author of “Just for pleasure”",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
+      "published_date": "2026-04-11T12:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LA BOURGEOISE",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/la-bourgeoise-376435",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The “Freedom” documentation preserved",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/actualite/la-documentation-de-liberte-conservee-376439",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“THE SACRIFICES...”",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/les-sacrifices-376436",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "An air of “FREEDOM” goes away",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/un-air-de-liberte-s-en-va-6150",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ménière's disease or Ménière's vertigo: what is it?",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/la-rubrique-de-la-famille/maladie-de-meniere-ou-vertige-de-meniere-qu-est-ce-que-c-est-376442",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trajectory of a columnist in… Freedom",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/actualite/trajectoire-d-un-chroniqueur-en-liberte-376438",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The altar is erected",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/l-autel-est-dresse-6148",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Requiem",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The feeling and the raw figure",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
+      "published_date": "2026-04-11T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seizure of Mahieddine Tahkout’s vehicle fleet",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
+      "published_date": "2026-04-11T11:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boden: The 2026 legislation may be the strongest in Algeria’s history",
       "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88-%d9%85%d9%84%d8%b9%d8%a8-%d9%81%d9%8a%d9%81%d8%a7-%d8%a3%d8%b1%d9%8a%d9%86%d8%a7-%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d8%a6%d9%8a-%d9%88%d8%b3/",
-      "published_date": "2026-04-10T22:29:39Z",
+      "url": "https://www.ennaharonline.com/%d8%a8%d9%88%d8%af%d9%86-%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d8%a7%d8%aa-2026-%d9%82%d8%af-%d8%aa%d9%83%d9%88%d9%86-%d8%a7%d9%84%d8%a3%d9%82%d9%88%d9%89-%d9%81%d9%8a-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae/",
+      "published_date": "2026-04-11T11:17:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Camp... 6 injured in a collision between a car and two motorcycles in Al-Hashm",
+      "title": "Heavy rain returns to these states today",
       "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%85%d8%b9%d8%b3%d9%83%d8%b1-6-%d8%ac%d8%b1%d8%ad%d9%89-%d9%81%d9%8a-%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85-%d8%a8%d9%8a%d9%86-%d8%b3%d9%8a%d8%a7%d8%b1%d8%a9-%d9%88%d8%af%d8%b1%d8%a7%d8%ac%d8%aa/",
-      "published_date": "2026-04-10T22:04:02Z",
+      "url": "https://www.ennaharonline.com/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%ba%d8%b2%d9%8a%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa/",
+      "published_date": "2026-04-11T11:05:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Djelfa.. One dead and 6 injured in a car overturn in Dar Al-Shuyoukh",
+      "title": "Strong winds exceeding 100 km/h hit these states",
       "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d9%84%d9%81%d8%a9-%d9%82%d8%aa%d9%8a%d9%84-%d9%886-%d8%ac%d8%b1%d8%ad%d9%89-%d9%81%d9%8a-%d8%a7%d9%86%d9%82%d9%84%d8%a7%d8%a8-%d8%b3%d9%8a%d8%a7%d8%b1%d8%a9-%d8%a8%d8%af%d8%a7/",
-      "published_date": "2026-04-10T21:45:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boumerdes.. extinguishing a fire in a warehouse for an artificial grass production factory",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d9%88%d9%85%d8%b1%d8%af%d8%a7%d8%b3-%d8%a5%d8%ae%d9%85%d8%a7%d8%af-%d8%ad%d8%b1%d9%8a%d9%82-%d8%a8%d9%85%d8%ae%d8%b2%d9%86-%d9%84%d9%85%d8%b5%d9%86%d8%b9-%d8%a7%d9%86%d8%aa%d8%a7%d8%ac-%d8%a7/",
-      "published_date": "2026-04-10T21:36:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CR Belouizdad loses to Zamalek and complicates its mission in the Confederation Cup",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af-%d9%8a%d9%86%d9%87%d8%b2%d9%85-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d9%88%d9%8a%d8%b9%d9%82%d9%91/",
-      "published_date": "2026-04-10T21:02:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary: Another goal for Benbouali! (video)",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/hongrie-encore-un-but-pour-benbouali-video-291528.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-04-10T20:58:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motsepe welcomes a corruption investigation in CAF",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%85%d9%88%d8%aa%d8%b3%d9%8a%d8%a8%d9%8a-%d9%8a%d8%b1%d8%ad%d8%a8-%d8%a8%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1-%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%81%d8%b3%d8%a7%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d8%a7",
-      "published_date": "2026-04-10T19:57:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMS – “ORANGE” Vigilance: More than 40 mm of rain in these 15 wilayas starting this Friday evening",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/bms-vigilance-orange-plus-de-40-mm-de-pluies-dans-ces-15-wilayas-a-partir-de-ce-vendredi-soir/",
-      "published_date": "2026-04-10T19:45:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Welcome, guest of Algeria, in the capital of peace.",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%85%d8%b1%d8%ad%d8%a8%d8%a7-%d8%a8%d8%b6%d9%8a%d9%81-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85",
-      "published_date": "2026-04-10T19:30:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Oran receives 50 new buses",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d9%88%d9%87%d8%b1%d8%a7%d9%86-%d8%aa%d8%b3%d9%84%d8%aa%d9%85-50-%d8%ad%d8%a7%d9%81%d9%84%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/",
-      "published_date": "2026-04-10T19:29:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The “fishermen” struggle with the winds and waves... and the boat is about to sink",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ad%d9%88%d9%91%d8%a7%d8%aa%d8%a9-%d9%8a%d9%8f%d8%b5%d8%a7%d8%b1%d8%b9%d9%88%d9%86-%d8%a7%d9%84%d8%b1%d9%91%d9%8a%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%a3%d9%85%d9%88%d8%a7%d8%ac",
-      "published_date": "2026-04-10T19:24:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is what Walid Sadi said after the inauguration of the regional technical center in Tlemcen",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%87%d8%b0%d8%a7-%d9%85%d8%a7-%d9%82%d8%a7%d9%84%d9%87-%d9%88%d9%84%d9%8a%d8%af-%d8%b5%d8%a7%d8%af%d9%8a-%d8%a8%d8%b9%d8%af-%d8%aa%d8%af%d8%b4%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2-%d8%a7",
-      "published_date": "2026-04-10T19:21:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Western welcome and French dissatisfaction with the Pope's visit to Algeria",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%aa%d8%b1%d8%ad%d9%8a%d8%a8-%d8%ba%d8%b1%d8%a8%d9%8a-%d9%88%d8%a7%d8%b3%d8%aa%d9%8a%d8%a7%d8%a1-%d9%81%d8%b1%d9%86%d8%b3%d9%8a-%d9%85%d9%86-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7",
-      "published_date": "2026-04-10T19:13:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Austrian national team.. Why should the “Greens” be careful?",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%86%d9%85%d8%b3%d8%a7-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d9%86%d8%a8%d8%ba%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d8%ae%d8%b6",
-      "published_date": "2026-04-10T19:09:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Africa, Eastern Europe, Asia… Air Algérie announces 7 new routes for 2026",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/afrique-europe-de-lest-asie-air-algerie-annonce-7-nouvelles-liaisons-pour-2026/",
-      "published_date": "2026-04-10T19:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zionist bombing",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%82%d8%b5%d9%81-%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a",
-      "published_date": "2026-04-10T18:55:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyad Mahrez is on the radar of Turkish Fenerbahce",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%b1%d9%8a%d8%a7%d8%b6-%d9%85%d8%ad%d8%b1%d8%b2-%d8%b9%d9%84%d9%89-%d8%b1%d8%a7%d8%af%d8%a7%d8%b1-%d9%81%d9%86%d8%b1%d8%a8%d8%ae%d8%b4%d8%a9-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a",
-      "published_date": "2026-04-10T18:44:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage in Algeria: the Augustinian Itineraries file officially submitted to UNESCO",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/patrimoine-algerien-lancement-officiel-du-dossier-des-itineraires-augustiniens-a-lunesco/",
-      "published_date": "2026-04-10T18:38:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CS Belouizdad coach reveals the starting lineup to face Zamalek of Egypt",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%85%d8%af%d8%b1%d8%a8-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%a3/",
-      "published_date": "2026-04-10T18:23:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Uncertain future for Kaïl Boudache in Nice",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/france-avenir-incertain-pour-kail-boudache-a-nice-291519.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-04-10T16:43:55Z",
+      "url": "https://www.ennaharonline.com/%d8%b1%d9%8a%d8%a7%d8%ad-%d9%82%d9%88%d9%8a%d8%a9-%d8%aa%d8%aa%d8%b9%d8%af%d9%89-100-%d9%83%d9%84%d9%85-%d8%b3%d8%a7-%d8%aa%d8%b6%d8%b1%d8%a8-%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a-3/",
+      "published_date": "2026-04-11T10:58:07Z",
       "category": "Local Events"
     }
   ]
