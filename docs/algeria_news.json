@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-27T00:04:36Z",
+  "generated_at": "2026-05-27T14:27:25Z",
   "country": "Algeria",
-  "total_stories": 98,
+  "total_stories": 97,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Water distribution is regular and stable on the morning of Eid",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d8%a8%d8%b4%d9%83%d9%84-%d9%85%d9%86%d8%aa%d8%b8%d9%85-%d9%88%d9%85%d8%b3%d8%aa%d9%82%d8%b1-%d9%81%d9%8a-%d8%b5%d8%a8%d9%8a%d8%ad/",
+      "published_date": "2026-05-27T13:42:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France – Algeria flights: a strike in Paris airports threatens traffic on this date",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/vols-france-algerie-une-greve-dans-les-aeroports-de-paris-menace-le-trafic-a-cette-date/",
+      "published_date": "2026-05-27T08:00:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algerians perform Eid prayers in the mosques of the republic",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d9%88%d9%86-%d9%8a%d8%a4%d8%af%d9%88%d9%86-%d8%b5%d9%84%d8%a7%d8%a9-%d8%a7%d9%84%d8%b9%d9%8a%d8%af-%d8%b9%d8%a8%d8%b1-%d9%85%d8%b3%d8%a7%d8%ac%d8%af",
+      "published_date": "2026-05-27T06:20:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Tebboune performs Eid al-Adha prayers at the Algiers Mosque",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%aa%d8%a8%d9%88%d9%86-%d9%8a%d8%a4%d8%af%d9%8a-%d8%b5%d9%84%d8%a7%d8%a9-%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%a3%d8%b6%d8%ad%d9%89-%d8%a8%d8%ac%d8%a7%d9%85%d8%b9",
+      "published_date": "2026-05-27T06:00:24Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The President of the Republic congratulates Algerians on the occasion of Eid Al-Adha",
       "source": "Ennahar Online",
@@ -123,32 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Petkovic and the World Cup menu...a responsibility, not a menu!",
+      "title": "President Tebboune congratulates army personnel, regular corps and health workers on the occasion of Eid Al-Adha",
       "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a8%d9%8a%d8%aa%d9%83%d9%88%d9%81%d9%8a%d8%aa%d8%b4-%d9%88%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a%d8%a9-%d9%88",
-      "published_date": "2026-05-25T19:43:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Parliamentary diplomacy: A delegation from the American Congress received at the Council of the Nation",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/diplomatie-parlementaire-une-delegation-du-congres-americain-recue-au-conseil-de-la-nation/",
-      "published_date": "2026-05-25T19:34:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Greens’ preparations begin towards the 2026 World Cup",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1-%d8%aa%d9%86%d8%b7%d9%84%d9%82-%d9%86%d8%ad%d9%88-%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-2026/",
-      "published_date": "2026-05-25T19:09:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Algiers puts a new “STOP” on the ambitions of the Emirati TAQA",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/alger-met-un-nouveau-stop-aux-ambitions-de-lemirati-taqa/",
-      "published_date": "2026-05-25T17:35:26Z",
-      "category": "Diplomacy"
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%aa%d8%a8%d9%88%d9%86-%d9%8a%d9%87%d9%86%d8%a6-%d8%a3%d9%81%d8%b1%d8%a7%d8%af-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%88%d8%a7%d9%84%d8%a3%d8%b3%d9%84%d8%a7%d9%83-2",
+      "published_date": "2026-05-27T08:41:00Z",
+      "category": "Military"
     },
     {
       "title": "Lieutenant General Chengriha congratulates the employees of the People's National Army on Eid Al-Adha",
@@ -284,13 +291,6 @@
       "category": "Military"
     },
     {
-      "title": "United States: Chemical leak in California, around 40,000 people evacuated",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/etats-unis-fuite-chimique-en-californie-environ-40-000-personnes-evacuees",
-      "published_date": "2026-05-23T09:38:26Z",
-      "category": "Military"
-    },
-    {
       "title": "Strait of Hormuz under tension: Algeria, big winner of the European gas crisis",
       "source": "Algerie360",
       "url": "https://www.algerie360.com/detroit-dormuz-sous-tension-lalgerie-grand-gagnant-de-la-crise-gaziere-europeenne/",
@@ -410,11 +410,32 @@
       "category": "Energy"
     },
     {
-      "title": "Energy: Skikda’s RA1K raises Algeria to 2nd rank among refining giants in Africa",
+      "title": "Algeria: 3 anti-import measures in two months, why and what risks?",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/algerie-3-mesures-anti-importation-en-deux-mois-pourquoi-et-quels-risques/",
+      "published_date": "2026-05-27T14:10:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Eid El-Adha: don’t throw away your sheepskins, they are worth gold for the economy",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/energie-la-ra1k-de-skikda-hisse-lalgerie-au-2e-rang-des-geants-du-raffinage-en-afrique/",
-      "published_date": "2026-05-20T14:27:18Z",
-      "category": "Energy"
+      "url": "https://www.algerie360.com/aid-el-adha-ne-jetez-plus-vos-peaux-de-mouton-elles-valent-de-lor-pour-leconomie/",
+      "published_date": "2026-05-27T11:57:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“Marafiq.com” application.. The Ministry of Commerce sends an important reminder to citizens",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%85%d8%b1%d8%a7%d9%81%d9%82-%d9%83%d9%88%d9%85-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%aa%d9%88%d8%ac%d9%87",
+      "published_date": "2026-05-27T10:41:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Arab ranking of minimum wages 2026: where does Algeria stand with an SNMG at $181?",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/classement-arabe-des-salaires-minimums-2026-ou-se-situe-lalgerie-avec-un-snmg-a-181/",
+      "published_date": "2026-05-27T07:59:28Z",
+      "category": "Economy"
     },
     {
       "title": "EN: Towards an imminent announcement of Petkovic’s list",
@@ -529,32 +550,81 @@
       "category": "Economy"
     },
     {
-      "title": "The following Wednesday, Thursday and Friday are paid holidays",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a3%d9%8a%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3-%d9%88%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84",
-      "published_date": "2026-05-24T11:18:12Z",
-      "category": "Economy"
+      "title": "MSF suspends its operations",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
+      "published_date": "2026-05-27T15:58:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "The Local Development Bank proposes to distribute dividends of 107 dinars to its shareholders",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d9%8a%d9%82%d8%aa%d8%b1%d8%ad-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%a3%d8%b1%d8%a8%d8%a7%d8%ad",
-      "published_date": "2026-05-24T11:08:33Z",
-      "category": "Economy"
+      "title": "How the 22 met at Lyes Derriche (July 25, 1954)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
+      "published_date": "2026-05-27T15:06:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "The following Wednesday, Thursday and Friday are paid holidays",
+      "title": "Millions of people lack food during Ramadan",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/des-millions-de-personnes-manquent-de-nourriture-durant-le-ramadan-13",
+      "published_date": "2026-05-27T14:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rain falls on these states on the second day of Eid",
       "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a3%d9%8a%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3-%d9%88%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84/",
-      "published_date": "2026-05-24T10:55:40Z",
-      "category": "Economy"
+      "url": "https://www.ennaharonline.com/%d8%aa%d8%b3%d8%a7%d9%82%d8%b7-%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%b9%d9%84%d9%89-%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3%d9%8a%d8%a7%d9%85/",
+      "published_date": "2026-05-27T14:09:40Z",
+      "category": "Local Events"
     },
     {
-      "title": "Important announcement for retirees",
+      "title": "Postponement until April 20 of the trial of the accused in the Metidji group affair",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/report-au-20-avril-du-proces-des-accuses-dans-l-affaire-du-groupe-metidji-16",
+      "published_date": "2026-05-27T13:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nice coach: “Boudaoui’s departure affected us and caused a decline in our performance.”",
       "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d9%87%d8%a7%d9%85-%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%8a%d9%86-3/",
-      "published_date": "2026-05-24T10:40:27Z",
-      "category": "Economy"
+      "url": "https://www.ennaharonline.com/%d9%85%d8%af%d8%b1%d8%a8-%d9%86%d9%8a%d8%b3-%d8%ae%d8%b1%d9%88%d8%ac-%d8%a8%d9%88%d8%af%d8%a7%d9%88%d9%8a-%d8%a3%d8%ab%d9%91%d8%b1-%d8%b9%d9%84%d9%8a%d9%86%d8%a7-%d9%88%d8%aa%d8%b3%d8%a8%d9%91/",
+      "published_date": "2026-05-27T13:04:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: Ahmed Benzelikha author of “Les Dupes” (Casbah éditions)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
+      "published_date": "2026-05-27T12:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Minister of Irrigation reviews the water distribution process on the first day of Eid",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b1%d9%8a-%d9%8a%d9%82%d9%81-%d8%b9%d9%84%d9%89-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d9%81%d9%8a/",
+      "published_date": "2026-05-27T12:14:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: Adib Benazzi author of “Low tide” (Dalimen editions)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
+      "published_date": "2026-05-27T12:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Minister of Irrigation follows up on the distribution of drinking water during the first day of Eid al-Adha",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b1%d9%8a-%d9%8a%d8%aa%d8%a7%d8%a8%d8%b9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d9%85%d9%8a%d8%a7%d9%87-%d8%a7%d9%84%d8%b4%d8%b1%d8%a8-%d8%ae%d9%84%d8%a7%d9%84",
+      "published_date": "2026-05-27T12:08:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: “Le Hic” author of “Just for fun”",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
+      "published_date": "2026-05-27T12:01:00Z",
+      "category": "Local Events"
     },
     {
       "title": "LA BOURGEOISE",
@@ -613,87 +683,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Seizure of Mahieddine Tahkout’s vehicle fleet",
+      "title": "Requiem",
       "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
-      "published_date": "2026-05-27T11:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cybercrime in the MENA region: Kaspersky and INTERPOL dismantle a vast network",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/cybercriminalite-dans-la-region-mena-kaspersky-et-interpol-demantelent-un-vaste-reseau/",
-      "published_date": "2026-05-26T22:56:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Boudaoui’s injury.. Nice postpones his fate to the “Allianz Rivera” signing",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d8%b9%d8%af-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a8%d9%88%d8%af%d8%a7%d9%88%d9%8a-%d9%86%d9%8a%d8%b3-%d9%8a%d8%a4%d8%ac%d9%84-%d9%85%d8%b5%d9%8a%d8%b1%d9%87-%d8%a5%d9%84%d9%89-%d9%85%d9%88/",
-      "published_date": "2026-05-26T21:39:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“The Greens” continue preparations for the World Cup",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ae%d8%b6%d8%b1-%d9%8a%d9%88%d8%a7%d8%b5%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d8%a7%d8%aa-%d9%84%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84/",
-      "published_date": "2026-05-26T21:19:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahrez responds to his detractors on social networks",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/mahrez-repond-a-ses-detracteurs-sur-les-reseaux-sociaux/",
-      "published_date": "2026-05-26T20:42:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preliminary toll: 5 dead and 11 injured in a car swerve and overturn in Illizi",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%a3%d9%88%d9%84%d9%8a%d8%a9-5-%d9%82%d8%aa%d9%84%d9%89-%d9%8811-%d8%ac%d8%b1%d9%8a%d8%ad%d8%a7-%d9%81%d9%8a-%d8%a7%d9%86%d8%ad%d8%b1%d8%a7%d9%81-%d9%88%d8%a7%d9%86/",
-      "published_date": "2026-05-26T20:31:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boudaoui was injured a few days before joining the “Al-Khader” squad.",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a8%d9%88%d8%af%d8%a7%d9%88%d9%8a-%d9%8a%d8%aa%d8%b9%d8%b1%d8%b6-%d9%84%d9%84%d8%a7%d8%b5%d8%a7%d8%a8%d8%a9-%d9%82%d8%a8%d9%84-%d8%a7%d9%8a%d8%a7%d9%85-%d9%82%d9%84%d9%8a%d9%84%d8%a9-%d9%85%d9%86",
-      "published_date": "2026-05-26T20:27:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Boudaoui is out injured before the World Cup!",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/france-boudaoui-sort-sur-blessure-avant-le-mondial-294592.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-05-26T19:48:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Days before the World Cup, Boudaoui leaves the match between Nice and Saint-Etienne injured",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%82%d8%a8%d9%84-%d8%a3%d9%8a%d8%a7%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d8%a8%d9%88%d8%af%d8%a7%d9%88%d9%8a-%d9%8a%d8%ba%d8%a7%d8%af%d8%b1-%d9%85%d9%88/",
-      "published_date": "2026-05-26T19:27:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Tebboune: We were keen to preserve the joy of Eid in every Algerian home (video)",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%aa%d8%a8%d9%88%d9%86-%d8%ad%d8%b1%d8%b5%d9%86%d8%a7-%d8%b9%d9%84%d9%89-%d8%ad%d9%81%d8%b8-%d9%81%d8%b1%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d9%8a%d8%af-%d8%af%d8%a7",
-      "published_date": "2026-05-26T19:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Djamaâ El-Djazaïr: special shuttles planned for Eid prayer",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/djamaa-el-djazair-des-navettes-speciales-prevues-pour-la-priere-de-laid/",
-      "published_date": "2026-05-26T18:13:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The National Gendarmerie takes down an international criminal network for electronic gambling",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%af%d8%b1%d9%83-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%8a%d8%b7%d9%8a%d8%ad-%d8%a8%d8%b4%d8%a8%d9%83%d8%a9-%d8%a5%d8%ac%d8%b1%d8%a7%d9%85%d9%8a%d8%a9-%d8%af%d9%88%d9%84%d9%8a%d8%a9",
-      "published_date": "2026-05-26T18:09:54Z",
+      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
+      "published_date": "2026-05-27T12:00:00Z",
       "category": "Local Events"
     }
   ]
