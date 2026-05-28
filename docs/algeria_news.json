@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-27T14:27:25Z",
+  "generated_at": "2026-05-28T00:00:34Z",
   "country": "Algeria",
-  "total_stories": 97,
+  "total_stories": 95,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Slovenia: End of a great adventure for Soudani!",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/slovenie-fin-dune-belle-aventure-pour-soudani-294599.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-05-27T16:21:06Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Water distribution is regular and stable on the morning of Eid",
       "source": "Ennahar Online",
@@ -141,13 +148,6 @@
       "source": "Ennahar Online",
       "url": "https://www.ennaharonline.com/%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d9%81%d8%aa%d9%88%d9%89-%d8%a8%d8%a7%d9%84%d8%a8%d8%b9%d8%ab%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%ad%d8%ac-%d8%aa%d8%b9/",
       "published_date": "2026-05-25T22:11:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“The Greens” launch their preparations for the World Cup with the first training session in Sidi Moussa",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ae%d8%b6%d8%b1-%d9%8a%d8%af%d8%b4%d9%86%d9%88%d9%86-%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d8%a7%d8%aa%d9%87%d9%85-%d9%84%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d8%a8%d8%a3%d9%88/",
-      "published_date": "2026-05-25T22:10:00Z",
       "category": "Diplomacy"
     },
     {
@@ -291,6 +291,13 @@
       "category": "Military"
     },
     {
+      "title": "Algerian gas to Europe: four consecutive months of increase, Algeria widens the gap",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/gaz-algerien-vers-leurope-quatre-mois-de-hausse-consecutifs-lalgerie-creuse-lecart/",
+      "published_date": "2026-05-27T18:20:08Z",
+      "category": "Energy"
+    },
+    {
       "title": "Strait of Hormuz under tension: Algeria, big winner of the European gas crisis",
       "source": "Algerie360",
       "url": "https://www.algerie360.com/detroit-dormuz-sous-tension-lalgerie-grand-gagnant-de-la-crise-gaziere-europeenne/",
@@ -389,25 +396,32 @@
       "category": "Energy"
     },
     {
-      "title": "Arkab receives the director of the National Higher School of Mathematics",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b9%d8%b1%d9%82%d8%a7%d8%a8-%d9%8a%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d9%85%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9/",
-      "published_date": "2026-05-20T21:58:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Sonatrach exports the first shipment of Bhutan to Chad",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b3%d9%88%d9%86%d8%a7%d8%b7%d8%b1%d8%a7%d9%83-%d8%aa%d8%b5%d8%af%d8%b1-%d8%a3%d9%88%d9%91%d9%84-%d8%b4%d8%ad%d9%86%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d9%88%d8%aa%d8%a7%d9%86-%d9%86%d8%ad%d9%88/",
-      "published_date": "2026-05-20T20:43:57Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Algeria to build a giant 1,000 MW power plant in Mozambique",
+      "title": "Sale of imported sheep via Adhahi.dz: The operation continues until this date",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/lalgerie-va-construire-une-centrale-geante-de-1-000-mw-au-mozambique/",
-      "published_date": "2026-05-20T20:41:45Z",
-      "category": "Energy"
+      "url": "https://www.algerie360.com/vente-des-moutons-importes-via-adhahi-dz-loperation-se-poursuit-jusqua-cette-date/",
+      "published_date": "2026-05-27T20:03:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "CREA: Petrochemicals, automobiles, Medef… Kamel Moula takes stock of an Algeria in full swing",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/crea-petrochimie-automobile-medef-kamel-moula-dresse-le-bilan-dune-algerie-en-plein-essor/",
+      "published_date": "2026-05-27T18:22:09Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The sale of imported sacrifices continues through the “Adahi” platform.",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a8%d9%8a%d8%b9-_%d8%a7%d9%84%d8%a3%d8%b6%d8%a7%d8%ad%d9%8a_-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d8%b1%d8%af%d8%a9-_%d9%85%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%b9%d8%a8%d8%b1-%d9%85%d9%86%d8%b5%d8%a9/",
+      "published_date": "2026-05-27T17:27:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fake real estate project in Algiers: a woman sentenced after extracting 1.6 billion from a client",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/faux-projet-immobilier-a-alger-une-femme-condamnee-apres-avoir-soutire-16-milliard-a-un-client/",
+      "published_date": "2026-05-27T14:56:27Z",
+      "category": "Economy"
     },
     {
       "title": "Algeria: 3 anti-import measures in two months, why and what risks?",
@@ -522,32 +536,95 @@
       "category": "Economy"
     },
     {
-      "title": "The Economic Renewal Council discusses ways to enhance Algerian exports",
+      "title": "Batna.. An earthquake hits Timgad",
       "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d9%8a%d9%86%d8%a7%d9%82%d8%b4-%d8%b3%d8%a8%d9%84-%d8%aa%d8%b9%d8%b2%d9%8a/",
-      "published_date": "2026-05-24T21:48:49Z",
-      "category": "Economy"
+      "url": "https://www.ennaharonline.com/%d8%a8%d8%a7%d8%aa%d9%86%d8%a9-%d9%87%d8%b2%d8%a9-%d8%a3%d8%b1%d8%b6%d9%8a%d8%a9-%d8%aa%d8%b6%d8%b1%d8%a8-%d8%aa%d9%8a%d9%85%da%a8%d8%a7%d8%af/",
+      "published_date": "2026-05-27T20:23:18Z",
+      "category": "Local Events"
     },
     {
-      "title": "Unemployment benefit: here is what the Minister of Employment announces",
+      "title": "Charleroi activates Kevin van den Kerkhof's purchase clause until 2028",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b4%d8%a7%d8%b1%d9%84%d9%88%d8%b1%d9%88%d8%a7-%d9%8a%d9%81%d8%b9%d9%91%d9%84-%d8%a8%d9%86%d8%af-%d8%b4%d8%b1%d8%a7%d8%a1-%d9%83%d9%8a%d9%81%d9%86-%d9%81%d8%a7%d9%86-%d8%af%d9%86-%d9%83%d9%8a%d8%b1/",
+      "published_date": "2026-05-27T19:28:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Skikda.. Two people died in a collision between two bicycles in Azaba",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b3%d9%83%d9%8a%d9%83%d8%af%d8%a9-%d9%88%d9%81%d8%a7%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85-%d8%a8%d9%8a%d9%86-%d8%af%d8%b1%d8%a7%d8%ac%d8%aa%d9%8a/",
+      "published_date": "2026-05-27T19:28:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: News from Boudaoui after his injury",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/france-des-nouvelles-de-boudaoui-apres-sa-blessure-294606.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-05-27T18:17:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greens: Hadjam shows the color before the World Cup",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/verts-hadjam-affiche-la-couleur-avant-la-coupe-du-monde-294603.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-05-27T18:11:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algeria renews from Nicaragua its commitment to a just solution to the Western Sahara issue in accordance with international legitimacy",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d8%ac%d8%af%d8%af-%d9%85%d9%86-%d9%86%d9%8a%d9%83%d8%a7%d8%b1%d8%a7%d8%ba%d9%88%d8%a7-%d8%aa%d9%85%d8%b3%d9%83%d9%87%d8%a7-%d8%a8%d8%ad%d9%84-%d8%b9/",
+      "published_date": "2026-05-27T18:07:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algerian street food: the first 100% Algerian food truck arrives in New York",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/allocation-chomage-voici-ce-quannonce-le-ministre-de-lemploi/",
-      "published_date": "2026-05-24T19:31:50Z",
-      "category": "Economy"
+      "url": "https://www.algerie360.com/street-food-algerienne-le-premier-food-truck-100-algerien-debarque-a-new-york/",
+      "published_date": "2026-05-27T18:06:30Z",
+      "category": "Local Events"
     },
     {
-      "title": "Faderco invests 30 billion in Mostaganem: 4,800 jobs at stake for this new giant project",
+      "title": "Dual activity: the government sets new rules for state executives",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/faderco-investit-30-milliards-a-mostaganem-4-800-emplois-a-la-cle-pour-ce-nouveau-projet-geant/",
-      "published_date": "2026-05-24T14:13:46Z",
-      "category": "Economy"
+      "url": "https://www.algerie360.com/double-activite-le-gouvernement-fixe-de-nouvelles-regles-pour-les-cadres-de-letat/",
+      "published_date": "2026-05-27T18:03:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "Eid-el-Adha: Algeria imports nearly a million sheep, a giant ship expected",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/aid-el-adha-lalgerie-importe-pres-dun-million-de-moutons-un-navire-geant-attendu/",
-      "published_date": "2026-05-24T11:22:08Z",
-      "category": "Economy"
+      "title": "Zarqan and Titaroui are among the ideal squad for the Belgian League",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b2%d8%b1%d9%82%d8%a7%d9%86-%d9%88%d8%aa%d9%8a%d8%b7%d8%b1%d8%a7%d9%88%d9%8a-%d8%b6%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%84%d9%8a%d8%a9/",
+      "published_date": "2026-05-27T17:26:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jijel.. 8 injured in a collision between two cars in Bouarmal",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%ac%d9%8a%d8%ac%d9%84-8-%d8%ac%d8%b1%d8%ad%d9%89-%d9%81%d9%8a-%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85-%d8%a8%d9%8a%d9%86-%d8%b3%d9%8a%d8%a7%d8%b1%d8%aa%d9%8a%d9%86-%d8%a8%d8%a8%d9%88%d8%a7/",
+      "published_date": "2026-05-27T16:53:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the occasion of Eid Al-Adha... The President of the Republic congratulates his Tunisian counterpart",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a8%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a9-%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%a3%d8%b6%d8%ad%d9%89-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d9%8a%d9%87%d9%86/",
+      "published_date": "2026-05-27T16:39:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 53 thousand merchants responded to the Eid maintenance system",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a3%d8%b2%d9%8a%d8%af-%d9%85%d9%86-53-%d8%a3%d9%84%d9%81-%d8%aa%d8%a7%d8%ac%d8%b1-%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%88%d8%a7-%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%af%d8%a7/",
+      "published_date": "2026-05-27T16:20:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trade...a broad response to the maintenance program in the capital",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d8%a9-%d9%88%d8%a7%d8%b3%d8%b9%d8%a9-%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%85%d8%a9/",
+      "published_date": "2026-05-27T16:14:43Z",
+      "category": "Local Events"
     },
     {
       "title": "MSF suspends its operations",
@@ -561,6 +638,13 @@
       "source": "Liberté Algérie",
       "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
       "published_date": "2026-05-27T15:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barrot tackles Retailleau on Algeria: “the standoff has failed”",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/barrot-tacle-retailleau-sur-lalgerie-le-bras-de-fer-a-echoue/",
+      "published_date": "2026-05-27T14:55:12Z",
       "category": "Local Events"
     },
     {
@@ -589,104 +673,6 @@
       "source": "Ennahar Online",
       "url": "https://www.ennaharonline.com/%d9%85%d8%af%d8%b1%d8%a8-%d9%86%d9%8a%d8%b3-%d8%ae%d8%b1%d9%88%d8%ac-%d8%a8%d9%88%d8%af%d8%a7%d9%88%d9%8a-%d8%a3%d8%ab%d9%91%d8%b1-%d8%b9%d9%84%d9%8a%d9%86%d8%a7-%d9%88%d8%aa%d8%b3%d8%a8%d9%91/",
       "published_date": "2026-05-27T13:04:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sila 2022: Ahmed Benzelikha author of “Les Dupes” (Casbah éditions)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
-      "published_date": "2026-05-27T12:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minister of Irrigation reviews the water distribution process on the first day of Eid",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b1%d9%8a-%d9%8a%d9%82%d9%81-%d8%b9%d9%84%d9%89-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d9%81%d9%8a/",
-      "published_date": "2026-05-27T12:14:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sila 2022: Adib Benazzi author of “Low tide” (Dalimen editions)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
-      "published_date": "2026-05-27T12:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minister of Irrigation follows up on the distribution of drinking water during the first day of Eid al-Adha",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b1%d9%8a-%d9%8a%d8%aa%d8%a7%d8%a8%d8%b9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d9%85%d9%8a%d8%a7%d9%87-%d8%a7%d9%84%d8%b4%d8%b1%d8%a8-%d8%ae%d9%84%d8%a7%d9%84",
-      "published_date": "2026-05-27T12:08:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sila 2022: “Le Hic” author of “Just for fun”",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
-      "published_date": "2026-05-27T12:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LA BOURGEOISE",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/la-bourgeoise-376435",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The “Freedom” documentation preserved",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/actualite/la-documentation-de-liberte-conservee-376439",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“THE SACRIFICES...”",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/les-sacrifices-376436",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An air of “FREEDOM” goes away",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/un-air-de-liberte-s-en-va-6150",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ménière's disease or Ménière's vertigo: what is it?",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/la-rubrique-de-la-famille/maladie-de-meniere-ou-vertige-de-meniere-qu-est-ce-que-c-est-376442",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trajectory of a columnist in… Freedom",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/actualite/trajectoire-d-un-chroniqueur-en-liberte-376438",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The altar is erected",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/l-autel-est-dresse-6148",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The feeling and the raw figure",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
-      "published_date": "2026-05-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Requiem",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
-      "published_date": "2026-05-27T12:00:00Z",
       "category": "Local Events"
     }
   ]
