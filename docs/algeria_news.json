@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T00:15:55Z",
+  "generated_at": "2026-06-17T14:26:58Z",
   "country": "Algeria",
-  "total_stories": 92,
+  "total_stories": 93,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Auctioned in Paris: Algeria recovers a precious manuscript more than 400 years old",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/mis-aux-encheres-a-paris-lalgerie-recupere-un-precieux-manuscrit-vieux-de-plus-de-400-ans/",
+      "published_date": "2026-06-17T13:55:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Self-sufficiency: Algeria reduces its imports of this agricultural product from Europe by 41%",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/autosuffisance-lalgerie-reduit-de-41-ses-importations-de-ce-produit-agricole-en-provenance-deurope/",
+      "published_date": "2026-06-17T13:55:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Visa for the United Kingdom: London simplifies the procedures, here is who is concerned",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/visa-pour-le-royaume-uni-londres-simplifie-les-demarches-voici-qui-est-concerne/",
+      "published_date": "2026-06-17T11:39:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Desalination stations hide an industrial treasure: this residue is now attracting attention in Algeria",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/les-stations-de-dessalement-cachent-un-tresor-industriel-ce-residu-attire-desormais-lattention/",
+      "published_date": "2026-06-17T11:34:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ALGERIA 0-3 ARGENTINA: MESSI GAVE US A LESSON (Debrief)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/equipes-nationales/algerie-0-3-argentine-messi-nous-a-donne-une-lecon-debrief-295299.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-06-17T06:13:05Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "ALG-ARG: AN ARGENTINE JOURNALIST ALERT ON ALGERIA! (video)",
       "source": "DzFoot",
@@ -116,39 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Algeria opens its market to American sheep",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/lalgerie-ouvre-son-marche-aux-moutons-americains/",
-      "published_date": "2026-06-15T17:16:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "2026 World Cup, Algeria-Argentina or France-Senegal: what will Zinédine Zidane choose?",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/mondial-2026-algerie-argentine-ou-france-senegal-que-va-choisir-zinedine-zidane/",
-      "published_date": "2026-06-15T16:40:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“The Greens” confidently...challenge the world champions and Messi",
+      "title": "40,000 hectares are restored annually to combat fire losses",
       "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ae%d8%b6%d8%b1-%d8%a8%d8%ab%d9%82%d8%a9-%d9%8a%d8%aa%d8%ad%d8%af%d9%88%d9%86-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%88%d9%85%d9%8a%d8%b3%d9%8a",
-      "published_date": "2026-06-15T15:28:23Z",
-      "category": "Diplomacy"
+      "url": "https://www.echoroukonline.com/40-%d8%a3%d9%84%d9%81-%d9%87%d9%83%d8%aa%d8%a7%d8%b1-%d8%aa%d9%8f%d8%b3%d8%aa%d8%b9%d8%a7%d8%af-%d8%b3%d9%86%d9%88%d9%8a%d9%8b%d8%a7-%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%ae%d8%b3%d8%a7%d8%a6",
+      "published_date": "2026-06-17T11:47:58Z",
+      "category": "Military"
     },
     {
-      "title": "ALGÉRIE - ARGENTINE : COMMENT RÉALISER UN EXPLOIT HISTORIQUE ? (Avant-Match)",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/equipes-nationales/algerie-argentine-comment-realiser-un-exploit-historique-avant-match-295199.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-06-15T15:19:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "An Algerian among the 100 most influential marketing leaders in Africa: Henkel in the spotlight",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/un-algerien-parmi-les-100-leaders-marketing-les-plus-influents-dafrique-henkel-a-lhonneur/",
-      "published_date": "2026-06-15T15:09:53Z",
-      "category": "Diplomacy"
+      "title": "Algeria and Tunisia enhance customs coordination",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%aa%d9%88%d9%86%d8%b3-%d8%aa%d8%b9%d8%b2%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82-%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a-2",
+      "published_date": "2026-06-17T11:19:42Z",
+      "category": "Military"
     },
     {
       "title": "This is the starting lineup for the “Greens” against Argentina",
@@ -277,18 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Lieutenant General Shangriha supervises the installation of the Director of the Military Higher School",
+      "title": "The International Energy Agency reduces global oil demand forecasts",
       "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d8%a3%d9%88%d9%84-%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9-%d9%8a%d8%b4%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d9%85%d8%af%d9%8a%d8%b1",
-      "published_date": "2026-06-13T10:56:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lieutenant General Shangriha supervises the installation of the new director of the Military Higher School",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d8%a3%d9%88%d9%84-%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9-%d9%8a%d9%8f%d8%b4%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d9%85%d8%af%d9%8a/",
-      "published_date": "2026-06-13T10:52:42Z",
-      "category": "Military"
+      "url": "https://www.echoroukonline.com/%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d8%aa%d8%ae%d9%81%d8%b6-%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%84-2",
+      "published_date": "2026-06-17T09:10:58Z",
+      "category": "Energy"
     },
     {
       "title": "Algeria-Germany: a new era for renewable energies with “DigiEnR”",
@@ -373,6 +380,27 @@
       "url": "https://www.echoroukonline.com/%d8%b9%d8%b1%d9%82%d8%a7%d8%a8-%d9%8a%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%ac%d9%84%d8%b3-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%b3%d9%87",
       "published_date": "2026-06-11T17:15:10Z",
       "category": "Energy"
+    },
+    {
+      "title": "Why do others get jobs faster than you?",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%ad%d8%b5%d9%84-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1%d9%88%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%a3%d8%b3%d8%b1%d8%b9-%d9%85%d9%86",
+      "published_date": "2026-06-17T12:30:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Important projects and files on the Prime Minister’s table",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d9%88%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d9%87%d8%a7%d9%85%d8%a9-%d8%b9%d9%84%d9%89-%d8%b7%d8%a7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84/",
+      "published_date": "2026-06-17T10:54:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opening the door to complaints for Fiat customers via the “Ashki” platform",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%81%d8%aa%d8%ad-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%b4%d9%83%d8%a7%d9%88%d9%89-%d9%84%d8%b2%d8%a8%d8%a7%d8%a6%d9%86-%d9%81%d9%8a%d8%a7%d8%aa-%d8%b9%d8%a8%d8%b1-%d9%85%d9%86%d8%b5%d8%a9-%d8%a3",
+      "published_date": "2026-06-17T10:50:15Z",
+      "category": "Economy"
     },
     {
       "title": "Air Algérie lands in Manchester: the challenges of a strategic line",
@@ -494,25 +522,74 @@
       "category": "Economy"
     },
     {
-      "title": "The Prime Minister appoints the Board of Directors of the Algerian Investment Promotion Agency",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%8a%d9%8f%d9%86%d8%b5%d8%a8-%d9%85%d8%ac%d9%84%d8%b3-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9",
-      "published_date": "2026-06-14T11:03:02Z",
-      "category": "Economy"
+      "title": "Al-Wadi: Security confiscates smuggled cigarettes and alcohol",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d9%8a%d8%ad%d8%ac%d8%b2-%d8%b3%d8%ac%d8%a7%d8%a6%d8%b1-%d9%85%d9%8f%d9%87%d8%b1%d8%a8%d8%a9-%d9%88%d8%ae%d9%85%d9%88%d8%b1/",
+      "published_date": "2026-06-17T14:11:56Z",
+      "category": "Local Events"
     },
     {
-      "title": "Automotive industry: six German companies arrive in Algiers at the end of June",
+      "title": "Let us raise our children by example, not by force",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%84%d9%86%d8%b1%d8%a8%d9%8a-%d8%a3%d8%a8%d9%86%d8%a7%d8%a6%d9%86%d8%a7-%d8%a8%d8%a7%d9%84%d9%82%d8%af%d9%88%d8%a9-%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d9%82%d9%88%d8%a9-4/",
+      "published_date": "2026-06-17T13:48:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The trait of lying in my son scares me..",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d8%ae%d9%8a%d9%81%d9%86%d9%8a-%d8%b5%d9%81%d8%a9-%d8%a7%d9%84%d9%83%d8%b0%d8%a8-%d9%81%d9%8a-%d8%a7%d8%a8%d9%86%d9%8a/",
+      "published_date": "2026-06-17T13:29:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CdM 2026: Is Messi protected by FIFA? (video)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/equipes-nationales/cdm-2026-messi-est-il-protege-par-la-fifa-video-295318.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-06-17T13:24:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al-Mughir: Security recovers stolen jewelry and arrests the perpetrator",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d9%85%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d9%8a%d8%b3%d8%aa%d8%b1%d8%ac%d8%b9-%d9%85%d8%ac%d9%88%d9%87%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%b1%d9%88%d9%82%d8%a9-%d9%88%d9%8a/",
+      "published_date": "2026-06-17T13:12:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nedum Onuwa: “Messi deserved the red card”",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%86%d9%8a%d8%af%d9%88%d9%85-%d8%a3%d9%88%d9%86%d9%88%d8%a7-%d9%85%d9%8a%d8%b3%d9%8a-%d9%83%d8%a7%d9%86-%d9%8a%d8%b3%d8%aa%d8%ad%d9%82-%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84/",
+      "published_date": "2026-06-17T13:10:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 World Cup, Algeria-Argentina: the big disappointment of Zinédine Zidane",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/mondial-2026-algerie-argentine-la-grosse-deception-de-zinedine-zidane/",
+      "published_date": "2026-06-17T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victim of food poisoning? Here's how to get damages",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/industrie-automobile-six-entreprises-allemandes-debarquent-a-alger-fin-juin/",
-      "published_date": "2026-06-14T10:19:44Z",
-      "category": "Economy"
+      "url": "https://www.algerie360.com/victime-dune-intoxication-alimentaire-voici-comment-obtenir-des-dommages-et-interets/",
+      "published_date": "2026-06-17T12:51:02Z",
+      "category": "Local Events"
     },
     {
-      "title": "These are cases of pursuing tax evaders without waiting for a complaint",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%87%d8%b0%d9%87-%d8%ad%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d9%84%d8%a7%d8%ad%d9%82%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d9%87%d8%b1%d8%a8%d9%8a%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b6%d8%b1%d8%a7%d8%a6%d8%a8",
-      "published_date": "2026-06-13T19:00:18Z",
-      "category": "Economy"
+      "title": "Read and learn",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%82%d8%b1%d8%a3-%d9%88%d8%ae%d8%b0-%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d8%a9-2/",
+      "published_date": "2026-06-17T12:42:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Do not forget to pray, as it is an act of worship that God loves",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%84%d8%a7-%d8%aa%d9%86%d8%b3%d9%88%d8%a7-%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1-%d9%81%d9%87%d9%88-%d8%b9%d8%a8%d8%a7%d8%af%d8%a9-%d9%8a%d8%ad%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d9%84%d9%87-371/",
+      "published_date": "2026-06-17T12:40:33Z",
+      "category": "Local Events"
     },
     {
       "title": "Sila 2022: Ahmed Benzelikha author of “Les Dupes” (Casbah éditions)",
@@ -526,6 +603,13 @@
       "source": "Liberté Algérie",
       "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
       "published_date": "2026-06-17T12:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Special bulletin: Heavy rains exceeding 40 mm across 17 states",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%86%d8%b4%d8%b1%d9%8a%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%ba%d8%b2%d9%8a%d8%b1%d8%a9-%d8%aa%d8%aa%d8%b9%d8%af%d9%89-%d8%a7%d9%84%d9%80-40-%d9%85%d9%84%d9%85-%d8%b9-3",
+      "published_date": "2026-06-17T12:02:36Z",
       "category": "Local Events"
     },
     {
@@ -575,83 +659,6 @@
       "source": "Liberté Algérie",
       "url": "https://www.liberte-algerie.com/actualite/trajectoire-d-un-chroniqueur-en-liberte-376438",
       "published_date": "2026-06-17T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The altar is erected",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/l-autel-est-dresse-6148",
-      "published_date": "2026-06-17T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Requiem",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
-      "published_date": "2026-06-17T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The feeling and the raw figure",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
-      "published_date": "2026-06-17T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seizure of Mahieddine Tahkout’s vehicle fleet",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
-      "published_date": "2026-06-17T11:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina – Algeria: Petkovic starts without Mahrez!",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/equipes-nationales/argentine-algerie-petkovic-debute-sans-mahrez-295274.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-06-17T00:07:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather Algeria: yellow vigilance for thunderstorms and rain in 14 wilayas this Wednesday, June 17",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/meteo-algerie-vigilance-jaune-orages-et-pluies-sur-14-wilayas-ce-mercredi-17-juin/",
-      "published_date": "2026-06-17T00:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Petkovic reveals the starting lineup to face Argentina",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d9%8a%d8%aa%d9%83%d9%88%d9%81%d9%8a%d8%aa%d8%b4-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9-%d9%81/",
-      "published_date": "2026-06-16T23:48:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The African champion is defeated by three",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a8%d8%b7%d9%84-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%8a%d9%86%d9%87%d8%b2%d9%85-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9",
-      "published_date": "2026-06-16T23:13:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: A light tour for the “Greens” players before facing Argentina",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d8%ac%d9%88%d9%84%d8%a9-%d8%ae%d9%81%d9%8a%d9%81%d8%a9-%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1-%d9%82%d8%a8%d9%84-%d9%85%d9%88-5",
-      "published_date": "2026-06-16T22:38:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hijam is close to embarking on a new adventure in “Calcio”",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d8%ac%d8%a7%d9%85-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%ae%d9%88%d8%b6-%d9%85%d8%ba%d8%a7%d9%85%d8%b1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d8%a7/",
-      "published_date": "2026-06-16T22:06:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Extinguishing an empty warehouse fire and treating a victim in Blida",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a5%d8%ae%d9%85%d8%a7%d8%af-%d8%ad%d8%b1%d9%8a%d9%82-%d9%85%d8%b3%d8%aa%d9%88%d8%af%d8%b9-%d9%81%d8%a7%d8%b1%d8%ba-%d9%88%d8%a5%d8%b3%d8%b9%d8%a7%d9%81-%d8%b6%d8%ad%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84/",
-      "published_date": "2026-06-16T21:02:09Z",
       "category": "Local Events"
     }
   ]
