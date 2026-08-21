@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:24:58Z",
+  "generated_at": "2026-08-21T11:24:05Z",
   "country": "Algeria",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The Prime Minister arrives in Taranto to attend the opening of the Mediterranean Games",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%8a%d8%ad%d9%84%d9%91-%d8%a8%d8%aa%d8%a7%d8%b1%d8%a7%d9%86%d8%aa%d9%88-%d9%84%d8%ad%d8%b6%d9%88%d8%b1-%d8%a7%d9%81%d8%aa%d8%aa",
+      "published_date": "2026-08-21T10:16:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“The harshest sanctions in history.” Washington escalates against Tehran",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a3%d9%82%d8%b3%d9%89-%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%b5%d8%b9%d9%91",
+      "published_date": "2026-08-21T08:14:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France: Titraoui, “I feel like I’ve been in Lens for a long time”",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/france-titraoui-jai-limpression-detre-a-lens-depuis-longtemps-297849.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-08-21T05:02:50Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mercato: A young Algerian prodigy is panicking Europe!",
       "source": "DzFoot",
@@ -130,25 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Urgent warning from Hamas.. What awaits Gaza in the coming months?",
+      "title": "Former President Blaise Compaoré sentenced to life for the assassination of Thomas Sankara",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/l-ex-president-blaise-compaore-condamne-a-vie-pour-l-assassinat-de-thomas-sankara-15",
+      "published_date": "2026-08-21T13:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The case of seizing 10 million “Pregabalin” tablets.. 50 people involved, and the Republic Prosecution reveals their names",
       "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d8%b9%d8%a7%d8%ac%d9%84-%d9%85%d9%86-%d8%ad%d9%85%d8%a7%d8%b3-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d9%86%d8%aa%d8%b8%d8%b1-%d8%ba%d8%b2%d8%a9-%d8%ae%d9%84%d8%a7%d9%84",
-      "published_date": "2026-08-19T10:10:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tragedy in Constantine: A block of frozen tallow thrown from a balcony costs the life of a passerby",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/tragedie-a-constantine-un-bloc-de-suif-congele-jete-dun-balcon-coute-la-vie-a-un-passant/",
-      "published_date": "2026-08-19T09:43:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Algerian beaches: a specialist warns of the deadly dangers of wild divers",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/plages-algeriennes-un-specialiste-alerte-sur-les-dangers-mortels-des-plongeons-sauvages/",
-      "published_date": "2026-08-19T07:28:57Z",
-      "category": "Diplomacy"
+      "url": "https://www.echoroukonline.com/%d9%82%d8%b6%d9%8a%d8%a9-%d8%b6%d8%a8%d8%b7-10-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%82%d8%b1%d8%b5-%d8%a8%d8%b1%d9%8a%d8%ba%d8%a7%d8%a8%d8%a7%d9%84%d9%8a%d9%86-50-%d9%85%d8%aa%d9%88%d8%b1",
+      "published_date": "2026-08-21T09:12:01Z",
+      "category": "Military"
     },
     {
       "title": "The Ministry of Interior congratulates National Security after the seizure of 10.4 million Pregabalin capsules and 33.4 kg of cocaine",
@@ -274,20 +288,6 @@
       "source": "Ennahar Online",
       "url": "https://www.ennaharonline.com/%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86-%d9%88%d8%ad%d8%ac%d8%b2-3600-%d9%82%d8%b1%d8%b5-%d9%85%d9%87%d9%84%d9%88%d8%b3-%d8%a8%d8%ba%d8%b1%d8%af%d8%a7%d9%8a%d8%a9/",
       "published_date": "2026-08-18T08:46:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Syria: Israel strikes Idlib military airport",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/syrie-israel-frappe-laeroport-militaire-didleb",
-      "published_date": "2026-08-18T08:43:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Mecca Joint Defense Agreement.. Egypt is considering joining, but it has conditions!",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d9%85%d9%83%d8%a9-%d9%84%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83-%d9%85%d8%b5%d8%b1-%d8%aa%d8%af%d8%b1%d8%b3-%d8%a7%d9%84%d8%a7%d9%86",
-      "published_date": "2026-08-18T08:30:08Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,13 @@
       "category": "Energy"
     },
     {
+      "title": "Mercato: The MCA refuses to let go of Youcef Belaïli",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/football-en-algerie/mercato-le-mca-refuse-de-lacher-youcef-belaili-297855.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-08-21T10:22:25Z",
+      "category": "Economy"
+    },
+    {
       "title": "Mouloudia of Algeria wins 3-0 over the hope of Chabab Haidara in a friendly match",
       "source": "Ennahar Online",
       "url": "https://www.ennaharonline.com/%d9%85%d9%88%d9%84%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d9%81%d9%88%d8%b2-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-%d9%86%d8%b8%d9%8a%d9%81%d8%a9-%d8%b9%d9%84/",
@@ -564,150 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "إعانة بـ400 مليون سنتيم لدعم شباب عين تموشنت",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a5%d8%b9%d8%a7%d9%86%d8%a9-%d8%a8%d9%80400-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b3%d9%86%d8%aa%d9%8a%d9%85-%d9%84%d8%af%d8%b9%d9%85-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%b9%d9%8a%d9%86-%d8%aa%d9%85%d9%88/",
-      "published_date": "2026-08-16T17:50:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "JS Kabylie announces its contract with Ayoub Sadahin",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b4%d8%a8%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d9%82%d8%a8%d8%a7%d8%a6%d9%84-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%b9%d8%a7%d9%82%d8%af%d9%87%d8%a7-%d9%85%d8%b9-%d8%a3%d9%8a%d9%88%d8%a8-%d8%b5%d8%af%d8%a7/",
-      "published_date": "2026-08-20T22:17:00Z",
+      "title": "MSF suspends its operations",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
+      "published_date": "2026-08-21T15:58:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Aflo.. 8 injured in a collision between two cars",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a3%d9%81%d9%84%d9%88-8-%d8%ac%d8%b1%d8%ad%d9%89-%d9%81%d9%8a-%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85-%d8%a8%d9%8a%d9%86-%d8%b3%d9%8a%d8%a7%d8%b1%d8%aa%d9%8a%d9%86/",
-      "published_date": "2026-08-20T21:57:40Z",
+      "title": "How the 22 met at Lyes Derriche (July 25, 1954)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
+      "published_date": "2026-08-21T15:06:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Olympique Chlef surpasses Mouloudia El Bayadh with an unanswered goal in a friendly match",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a-%d8%a7%d9%84%d8%b4%d9%84%d9%81-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d9%85%d9%88%d9%84%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6-%d8%a8%d9%87%d8%af/",
-      "published_date": "2026-08-20T21:32:12Z",
+      "title": "Millions of people lack food during Ramadan",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/des-millions-de-personnes-manquent-de-nourriture-durant-le-ramadan-13",
+      "published_date": "2026-08-21T14:27:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Imane Khelif absent from the Mediterranean Games: “I did not receive any invitation”",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/imane-khelif-absente-des-jeux-mediterraneens-je-nai-recu-aucune-convocation/",
-      "published_date": "2026-08-20T20:28:22Z",
+      "title": "Trial of the accused in the Metidji group case postponed until April 20",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/report-au-20-avril-du-proces-des-accuses-dans-l-affaire-du-groupe-metidji-16",
+      "published_date": "2026-08-21T13:35:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Security raids in Constantine neighborhoods.. arresting people and seizing hallucinogens, drugs and white weapons",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%85%d8%af%d8%a7%d9%87%d9%85%d8%a7%d8%aa-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d8%a8%d8%a3%d8%ad%d9%8a%d8%a7%d8%a1-%d9%82%d8%b3%d9%86%d8%b7%d9%8a%d9%86%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%a3%d8%b4/",
-      "published_date": "2026-08-20T20:26:02Z",
+      "title": "Sila 2022: Ahmed Benzelikha author of “Les Dupes” (Casbah éditions)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
+      "published_date": "2026-08-21T12:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Clarification regarding the price of frozen chicken",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%aa%d9%88%d8%b6%d9%8a%d8%ad-%d8%a8%d8%ae%d8%b5%d9%88%d8%b5-%d8%b3%d8%b9%d8%b1-%d8%a7%d9%84%d8%af%d8%ac%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%ac%d9%85%d8%af/",
-      "published_date": "2026-08-20T20:05:37Z",
+      "title": "Sila 2022: Adib Benazzi author of “Low tide” (Dalimen editions)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
+      "published_date": "2026-08-21T12:12:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Smartphones: the Chinese brand Vivo inaugurates its factory in Algeria",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/smartphones-la-marque-chinoise-vivo-inaugure-son-usine-en-algerie/",
-      "published_date": "2026-08-20T19:40:45Z",
+      "title": "Sila 2022: “Le Hic” author of “Just for fun”",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
+      "published_date": "2026-08-21T12:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Iman Khalif explains: “I did not receive any official invitation to participate in the Taranto Games.”",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a5%d9%8a%d9%85%d8%a7%d9%86-%d8%ae%d9%84%d9%8a%d9%81-%d8%aa%d9%88%d8%b6%d8%ad-%d9%84%d9%85-%d8%a3%d8%aa%d9%84%d9%82%d9%8e%d9%91-%d8%a3%d9%8a-%d8%af%d8%b9%d9%88%d8%a9-%d8%b1%d8%b3%d9%85%d9%8a/",
-      "published_date": "2026-08-20T19:36:59Z",
+      "title": "LA BOURGEOISE",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/la-bourgeoise-376435",
+      "published_date": "2026-08-21T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "The capital... an inspection visit by the head of the Port Services Complex “Sirpur” to the port of Algiers",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%aa%d9%81%d9%82%d8%af%d9%8a%d8%a9-%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%ae%d8%af/",
-      "published_date": "2026-08-20T19:25:49Z",
+      "title": "The “Freedom” documentation preserved",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/actualite/la-documentation-de-liberte-conservee-376439",
+      "published_date": "2026-08-21T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Mercato: An English promotion invites itself into the Anis Hadj Moussa file",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/mercato-un-promu-anglais-sinvite-dans-le-dossier-anis-hadj-moussa-297846.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-20T19:21:23Z",
+      "title": "“THE SACRIFICES...”",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/les-sacrifices-376436",
+      "published_date": "2026-08-21T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Chlef: dismantling a cross-border network and seizing approximately 50 kg of kif",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%b4%d9%84%d9%81-%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d8%b4%d8%a8%d9%83%d8%a9-%d8%b9%d8%a7%d8%a8%d8%b1%d8%a9-%d9%84%d9%84%d8%ad%d8%af%d9%88%d8%af-%d9%88-%d8%ad%d8%ac%d8%b2-%d9%82%d8%b1/",
-      "published_date": "2026-08-20T19:17:31Z",
+      "title": "An air of “FREEDOM” goes away",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/un-air-de-liberte-s-en-va-6150",
+      "published_date": "2026-08-21T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Drivers, speculators, crooked traders… enough is enough!",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/chauffards-speculateurs-commercants-vereux-trop-cest-trop/",
-      "published_date": "2026-08-20T19:09:00Z",
+      "title": "Ménière's disease or Ménière's vertigo: what is it?",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/la-rubrique-de-la-famille/maladie-de-meniere-ou-vertige-de-meniere-qu-est-ce-que-c-est-376442",
+      "published_date": "2026-08-21T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "High temperatures kill 14,000 people in Germany",
+      "title": "Trajectory of a columnist in… Freedom",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/actualite/trajectoire-d-un-chroniqueur-en-liberte-376438",
+      "published_date": "2026-08-21T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The altar is erected",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/l-autel-est-dresse-6148",
+      "published_date": "2026-08-21T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Requiem",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
+      "published_date": "2026-08-21T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The feeling and the raw figure",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
+      "published_date": "2026-08-21T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seizure of Mahieddine Tahkout’s vehicle fleet",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
+      "published_date": "2026-08-21T11:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“You missed me.” Melania Trump appears amid a storm of speculation",
       "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d9%81%d8%b9%d8%a9-%d8%aa%d9%82%d8%aa%d9%84-14-%d8%a3%d9%84%d9%81-%d8%b4%d8%ae%d8%b5-%d9%81%d9%8a-%d8%a3%d9%84%d9%85%d8%a7",
-      "published_date": "2026-08-20T18:45:35Z",
+      "url": "https://www.echoroukonline.com/%d8%a7%d8%b4%d8%aa%d9%82%d8%aa%d9%85-%d8%a5%d9%84%d9%8a%d9%91-%d9%85%d9%8a%d9%84%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%aa%d8%b8%d9%87%d8%b1-%d9%88%d8%b3%d8%b7-%d8%b9%d8%a7",
+      "published_date": "2026-08-21T11:16:21Z",
       "category": "Local Events"
     },
     {
-      "title": "After three years of shutdown, this pharmaceutical factory restarts in Constantine",
+      "title": "Smartphone factory: a major Chinese brand sets up in Algeria",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/apres-trois-ans-darret-cette-usine-pharmaceutique-redemarre-a-constantine/",
-      "published_date": "2026-08-20T18:44:05Z",
+      "url": "https://www.algerie360.com/usine-de-smartphones-une-grande-marque-chinoise-simplante-en-algerie/",
+      "published_date": "2026-08-21T11:06:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Mercato: Dortmund, the dream springboard for Anis Hadj Moussa",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/mercato-dortmund-le-tremplin-reve-pour-anis-hadj-moussa-297839.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-20T18:22:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mercato: Monaco or Beşiktaş? Farès Ghedjemis would have a preference!",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/mercato-monaco-ou-besiktas-fares-ghedjemis-aurait-une-preference-297834.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-20T18:12:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adam Ounas at Mouloudia: agreement reached for this astronomical salary, but one detail blocks everything",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/adam-ounas-au-mouloudia-accord-trouve-pour-ce-salaire-astronomique-mais-un-details-bloque-tout/",
-      "published_date": "2026-08-20T17:39:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Did Roberto Carlos really convert to Islam?",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/roberto-carlos-sest-il-vraiment-converti-a-lislam/",
-      "published_date": "2026-08-20T17:10:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Washington sends a new aircraft carrier to the Middle East",
+      "title": "UK, Italy, France and Germany urge Israel to abandon expansion in occupied West Bank",
       "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%b1%d8%b3%d9%84-%d8%ad%d8%a7%d9%85%d9%84%d8%a9-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b4",
-      "published_date": "2026-08-20T17:05:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Sidal” restarts the production lines of the former “Hope Pharma” institution in Constantine",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%b5%d9%8a%d8%af%d8%a7%d9%84-%d8%aa%d8%b9%d9%8a%d8%af-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d8%ae%d8%b7%d9%88%d8%b7-%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%85%d8%a4%d8%b3%d8%b3%d8%a9-%d9%87%d9%88%d8%a8",
-      "published_date": "2026-08-20T16:49:43Z",
+      "url": "https://www.echoroukonline.com/le-royaume-uni-litalie-la-france-et-lallemagne-exhortent-israel-a-abandonner-son-expansion-en-cisjordanie-occupee",
+      "published_date": "2026-08-21T11:02:28Z",
       "category": "Local Events"
     }
   ]
