@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T04:15:05Z",
+  "generated_at": "2026-08-27T20:56:19Z",
   "country": "Algeria",
-  "total_stories": 95,
+  "total_stories": 88,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,10 +11,87 @@
   ],
   "stories": [
     {
+      "title": "Algeria stresses Libya's unity and calls for a political solution to the crisis",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d8%b4%d8%af%d8%af-%d8%b9%d9%84%d9%89-%d9%88%d8%ad%d8%af%d8%a9-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d9%88%d8%aa%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%ad/",
+      "published_date": "2026-08-27T18:25:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ismail Bakhisis gives Algeria a boxing silver medal at the Taranto Games",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84-%d8%a8%d8%ae%d8%b3%d9%8a%d8%b3-%d9%8a%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%84%d8%a7/",
+      "published_date": "2026-08-27T18:16:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From Jeddah.. Attaf renews Algeria's commitment to defending Palestine",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%85%d9%86-%d8%ac%d8%af%d8%a9-%d8%b9%d8%b7%d8%a7%d9%81-%d9%8a%d8%ac%d8%af%d8%af-%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a8%d8%a7%d9%84%d8%af%d9%81%d8%a7/",
+      "published_date": "2026-08-27T17:57:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mauritania appreciates Algeria's support for the election of Ould Sheikh Ahmed as Secretary-General of the Organization of Islamic Cooperation",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%85%d9%88%d8%b1%d9%8a%d8%aa%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%ab%d9%85%d9%86-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8-%d9%88%d9%84",
+      "published_date": "2026-08-27T17:40:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The American Embassy offers its condolences to Algeria for the victims of the fires",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%b9%d8%b2%d9%91%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d8%b6%d8%ad",
+      "published_date": "2026-08-27T16:26:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tiaret: 6 dead in a collision between a taxi and a truck",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/tiaret-6-morts-dans-une-collision-entre-un-taxi-et-un-camion/",
+      "published_date": "2026-08-27T16:02:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria confirms its “firm and firm” position in supporting the Palestinian cause",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d8%a4%d9%83%d8%af-%d9%85%d9%88%d9%82%d9%81%d9%87%d8%a7-%d8%a7%d9%84%d8%ab%d8%a7%d8%a8%d8%aa-%d9%88%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d8%ae-%d9%81",
+      "published_date": "2026-08-27T15:55:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Prime Minister of the Republic of Niger leaves Algeria",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-%d9%8a%d8%ba%d8%a7%d8%af%d8%b1-%d8%a7%d9%84",
+      "published_date": "2026-08-27T15:33:24Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Everyone has their own prediction",
       "source": "Liberté Algérie",
       "url": "https://www.liberte-algerie.com/editorial/a-chacun-sa-prediction-6149",
       "published_date": "2026-08-27T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany: Ramy Bensebaini's sanction has fallen",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/allemagne-la-sanction-de-ramy-bensebaini-est-tombee-298180.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-08-27T11:58:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hyundai factory in Algeria: the CEO reveals the start date and the planned vehicles",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/usine-hyundai-en-algerie-le-ceo-devoile-la-date-du-demarrage-et-les-vehicules-prevus/",
+      "published_date": "2026-08-27T11:10:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mediterranean Games: Algeria beats Albania and meets Morocco!",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/equipes-nationales/jeux-mediterraneens-lalgerie-bat-lalbanie-et-donne-rendez-vous-au-maroc-298167.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-08-27T06:00:11Z",
       "category": "Diplomacy"
     },
     {
@@ -74,81 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "« Je suis seule avec un Algérien » : grave dérapage de Gemini de Google",
+      "title": "These roads are closed due to fires",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d8%b7%d8%b1%d9%82-%d9%85%d8%ba%d9%84%d9%82%d8%a9-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%a6%d9%82",
+      "published_date": "2026-08-27T15:53:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Former President Blaise Compaoré sentenced to life for the assassination of Thomas Sankara",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/l-ex-president-blaise-compaore-condamne-a-vie-pour-l-assassinat-de-thomas-sankara-15",
+      "published_date": "2026-08-27T13:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Jabaroot: the Algerian trail fades, ex-Moroccan spies behind the leak of 70,000 agents’ names",
       "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/je-suis-seule-avec-un-algerien-grave-derapage-de-gemini-de-google/",
-      "published_date": "2026-08-26T10:22:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Elle se fait passer pour une Algérienne durant un an: la supercherie d’une streameuse française dévoilée",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/streameuse-francaise-fausse-identite-algerienne-musulmane/",
-      "published_date": "2026-08-26T09:03:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mercato : Frosinone fixe un prix fou pour Ghedjemis",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/mercato-frosinone-fixe-un-prix-fou-pour-ghedjemis-298123.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-26T08:01:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Une météorite découverte dans le Sahara algérien révèle de nouveaux secrets sur Mars",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/une-meteorite-decouverte-dans-le-sahara-algerien-revele-de-nouveaux-secrets-sur-mars/",
-      "published_date": "2026-08-26T07:19:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "L’international algérien Jaouen Hadjam rejoint la Premier League anglaise",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/linternational-algerien-jaouen-hadjam-rejoint-la-premier-league-anglaise/",
-      "published_date": "2026-08-25T20:50:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mercato : C’est officiel, Jaouen Hadjam signe en Premier League !",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/mercato-cest-officiel-jaouen-hadjam-signe-en-premier-league-298108.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-25T20:36:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alerte météo en Algérie : vents violents et canicule, les régions concernées",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/alerte-meteo-en-algerie-vents-violents-et-canicule-les-regions-concernees/",
-      "published_date": "2026-08-25T18:13:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Son prix passe de 850 à 420 DA/kg : l’État recadre le marché de la banane",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/son-prix-passe-de-850-a-420-da-kg-letat-recadre-le-marche-de-la-banane/",
-      "published_date": "2026-08-25T17:21:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mercato : Gouiri, ce club pourrait faire pencher la balance",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/mercato-gouiri-ce-club-pourrait-faire-pencher-la-balance-298098.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-25T17:18:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mercato : Boudaoui proche d'une signature inattendue ?",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/mercato-boudaoui-proche-dune-signature-inattendue-298096.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-25T16:54:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "49 °C à l’ombre et rafales violentes : l’Algérie face à une météo extrême ces 26 et 27 août",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/49-c-a-lombre-et-rafales-violentes-lalgerie-face-a-une-meteo-extreme-ces-26-et-27-aout/",
-      "published_date": "2026-08-25T15:30:28Z",
-      "category": "Diplomacy"
+      "url": "https://www.tsa-algerie.com/jabaroot-la-piste-algerienne-sefface-dex-espions-marocains-derriere-la-fuite-de-70-000-noms-dagents/",
+      "published_date": "2026-08-27T08:20:48Z",
+      "category": "Military"
     },
     {
       "title": "Fires close 3 national roads in these states",
@@ -270,27 +291,6 @@
       "category": "Military"
     },
     {
-      "title": "Arabia: Zineddine Belaïd is off to a strong start with Al-Taawoun!",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/arabie-zineddine-belaid-demarre-tres-fort-avec-al-taawoun-297874.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-22T05:00:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "“What to do in case of a burst tire? »: Himayatec denounces the rigidity of the Naftal platform",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/achat-de-pneus-via-la-plateforme-himayatec-interpelle-naftal-sur-la-gestion-des-urgences/",
-      "published_date": "2026-08-21T22:06:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "10.4 million “Pregabalin” capsules and more than 33 kg of “cocaine” were seized. Pharmacists issue a statement",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b6%d8%a8%d8%b7-10-4-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%83%d8%a8%d8%b3%d9%88%d9%84%d8%a9-%d8%a8%d8%b1%d9%8a%d8%ba%d8%a7%d8%a8%d8%a7%d9%84%d9%8a%d9%86-%d9%88%d8%a3%d8%b2/",
-      "published_date": "2026-08-21T18:07:16Z",
-      "category": "Military"
-    },
-    {
       "title": "Forest fires: scenes of apocalypse east of Bejaïa",
       "source": "TSA Algérie",
       "url": "https://www.tsa-algerie.com/feux-de-foret-scenes-dapocalypse-a-lest-de-bejaia/",
@@ -347,53 +347,25 @@
       "category": "Energy"
     },
     {
-      "title": "Public services: here are the 6 new procedures you can carry out online",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/services-publics-voici-les-6-nouvelles-demarches-que-vous-pouvez-effectuer-en-ligne/",
-      "published_date": "2026-08-20T17:56:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "“The iron consumes between 1,500 and 2,500 watts per use.”",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%85%d9%83%d9%88%d8%a7%d8%a9-%d8%aa%d8%b3%d8%aa%d9%87%d9%84%d9%83-%d9%85%d8%a7-%d8%a8%d9%8a%d9%86-1500-%d9%882500-%d9%88%d8%a7%d8%b7-%d9%81%d9%8a-%d9%83%d9%84%d9%91-%d8%a7%d8%b3%d8%aa",
-      "published_date": "2026-08-20T17:10:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Liquefied petroleum gas (LPG): India turns to Algeria",
+      "title": "Air Algérie formalizes the Algiers-Berlin line against the backdrop of Algerian-German rapprochement",
       "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/gaz-de-petrole-liquefie-gpl-linde-se-tourne-vers-lalgerie/",
-      "published_date": "2026-08-20T16:41:14Z",
-      "category": "Energy"
+      "url": "https://www.tsa-algerie.com/air-algerie-officialise-la-ligne-alger-berlin-sur-fond-de-rapprochement-algero-allemand/",
+      "published_date": "2026-08-27T18:12:44Z",
+      "category": "Economy"
     },
     {
-      "title": "A national platform for early warning and monitoring of climate change",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%85%d9%86%d8%b5%d8%a9-%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%84%d9%84%d8%a5%d9%86%d8%b0%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1-%d9%88%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1",
-      "published_date": "2026-08-20T15:45:45Z",
-      "category": "Energy"
+      "title": "Algeria: bundles of euros seized from passengers leaving for Tunisia",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/algerie-des-liasses-deuros-saisies-sur-des-passageres-en-partance-vers-la-tunisie/",
+      "published_date": "2026-08-27T15:06:59Z",
+      "category": "Economy"
     },
     {
-      "title": "Inserting 6 new digital services through the government digital services portal",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-6-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b1%d9%82%d9%85%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d8%a8%d8%b1-%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d8%af",
-      "published_date": "2026-08-20T15:37:44Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Hydrocarbons: SONATRACH makes its big comeback in India",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/hydrocarbures-sonatrach-signe-son-grand-retour-en-inde/",
-      "published_date": "2026-08-20T14:44:04Z",
-      "category": "Energy"
-    },
-    {
-      "title": "8 toxic personalities, lose them to gain yourself",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/8-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa-%d8%b3%d8%a7%d9%85%d8%a9-%d8%a7%d8%ae%d8%b3%d8%b1%d9%87%d8%a7-%d9%84%d8%aa%d9%83%d8%b3%d8%a8-%d9%86%d9%81%d8%b3%d9%83",
-      "published_date": "2026-08-20T09:54:55Z",
-      "category": "Energy"
+      "title": "Automobile: Hyundai includes Algeria in its 2030 strategy",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/automobile-hyundai-integre-lalgerie-dans-sa-strategie-2030/",
+      "published_date": "2026-08-27T07:20:41Z",
+      "category": "Economy"
     },
     {
       "title": "After Petkovic's departure... a surprise in the leadership of the Greens before the 2027 Cannes qualifiers",
@@ -515,164 +487,143 @@
       "category": "Economy"
     },
     {
-      "title": "Phosphate : l’Algérie accélère et menace le principal moteur de l’économie marocaine",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/phosphate-lalgerie-accelere-et-menace-le-principal-moteur-de-leconomie-marocaine/",
-      "published_date": "2026-08-24T11:18:12Z",
-      "category": "Economy"
+      "title": "Le Havre officially announces its contract with Ahmed Touba",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%84%d9%88%d9%87%d8%a7%d9%81%d8%b1-%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d8%aa%d8%b9%d8%a7%d9%82%d8%af%d9%87-%d9%85%d8%b9-%d8%a3%d8%ad%d9%85%d8%af-%d8%aa%d9%88%d8%a8/",
+      "published_date": "2026-08-27T20:50:09Z",
+      "category": "Local Events"
     },
     {
-      "title": "Budget loisirs : ce que coûte vraiment se divertir au Québec quand on arrive d’Algérie",
+      "title": "Maryam Safia Gharib wins silver in the World Beach Wrestling Championship",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%85%d8%b1%d9%8a%d9%85-%d8%b5%d8%a7%d9%81%d9%8a%d8%a9-%da%a8%d8%b1%d9%8a%d8%a8-%d8%aa%d8%aa%d9%88%d8%ac-%d8%a8%d9%81%d8%b6%d9%8a%d8%a9-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84/",
+      "published_date": "2026-08-27T20:38:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jijel fires.. The Prime Minister visits hospitals and checks on the injured",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-%d8%ac%d9%8a%d8%ac%d9%84-%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%8a%d8%b2%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%8a/",
+      "published_date": "2026-08-27T20:33:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tragic fires in Algeria: Saïd Sayoud announces “in-depth investigations”",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/incendies-tragiques-en-algerie-said-sayoud-annonce-des-enquetes-approfondies/",
+      "published_date": "2026-08-27T20:19:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bejaïa: the couple of foreign tourists who died in a shipwreck came from Le Havre",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/bejaia-le-couple-de-touristes-etrangers-morts-dans-un-naufrage-venait-du-havre/",
+      "published_date": "2026-08-27T20:02:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The European Union condoles the families of the victims of the Algerian fires and praises the fire brigades",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d9%8a%d8%b9%d8%b2%d9%8a-%d8%b9%d8%a7%d8%a6%d9%84%d8%a7%d8%aa-%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7-%d8%ad%d8%b1/",
+      "published_date": "2026-08-27T19:43:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Officially... CS Belouizdad completes the qualification file for its new players",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-_%d8%b4%d8%a8%d8%a7%d8%a8-_%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af-_%d9%8a%d9%86%d9%87%d9%8a_-%d9%85%d9%84%d9%81-%d8%aa%d8%a3%d9%87%d9%8a%d9%84-%d9%84%d8%a7/",
+      "published_date": "2026-08-27T19:41:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANIE: transfer of power this Thursday between Khelfane Karim and Saad Arous",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/budget-loisirs-ce-que-coute-vraiment-se-divertir-au-quebec-quand-on-arrive-dalgerie/",
-      "published_date": "2026-08-24T08:42:44Z",
-      "category": "Economy"
-    },
-    {
-      "title": "الوزير الأول المالي عبد الله مايغا يحل بالجزائر",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d8%a7%d9%8a%d8%ba%d8%a7-%d9%8a%d8%ad%d9%84",
-      "published_date": "2026-08-24T08:37:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "An air of “FREEDOM” goes away",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/un-air-de-liberte-s-en-va-6150",
-      "published_date": "2026-08-27T12:00:00Z",
+      "url": "https://www.algerie360.com/anie-passation-de-pouvoir-ce-jeudi-entre-khelfane-karim-et-saad-arous/",
+      "published_date": "2026-08-27T19:24:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Ménière's disease or Ménière's vertigo: what is it?",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/la-rubrique-de-la-famille/maladie-de-meniere-ou-vertige-de-meniere-qu-est-ce-que-c-est-376442",
-      "published_date": "2026-08-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trajectory of a columnist in… Freedom",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/actualite/trajectoire-d-un-chroniqueur-en-liberte-376438",
-      "published_date": "2026-08-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The altar is erected",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/l-autel-est-dresse-6148",
-      "published_date": "2026-08-27T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Escaping from the fires... saving 30 people who were stuck on the banks of the Al-Aqram Dam in Jijel",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%87%d8%b1%d9%88%d8%a8%d9%8b%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-%d8%a5%d9%86%d9%82%d8%a7%d8%b0-30-%d8%b4%d8%ae%d8%b5%d8%a7-%d8%b9%d9%84%d9%82%d9%88%d8%a7-%d8%b9%d9%84/",
-      "published_date": "2026-08-26T22:49:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tizi Ouzou fires.. 3 women from one family died and 4 others were injured",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-%d8%aa%d9%8a%d8%b2%d9%8a-%d9%88%d8%b2%d9%88-%d9%88%d9%81%d8%a7%d8%a9-3-%d9%86%d8%b3%d8%a7%d8%a1-%d9%85%d9%86-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%88%d8%a7/",
-      "published_date": "2026-08-26T22:09:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 people died due to the fires",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%88%d9%81%d8%a7%d8%a9-_12-%d8%b4%d8%ae%d8%b5%d8%a7-_%d8%a8%d8%b3%d8%a8%d8%a8_-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%a6%d9%82/",
-      "published_date": "2026-08-26T21:46:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New toll from fires",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d8%b5%d9%8a%d9%84%d8%a9_-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-_%d9%84%d9%84%d8%ad%d8%b1%d8%a7%d8%a6%d9%82/",
-      "published_date": "2026-08-26T21:36:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minister of Interior announces the death of 12 people as a result of the fires",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%8a%d8%b9%d9%84%d9%86-%d9%88%d9%81%d8%a7%d8%a9-12-%d8%b4%d8%ae%d8%b5%d8%a7-%d8%ac%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%ad",
-      "published_date": "2026-08-26T21:30:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New update for roads closed due to fires",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac%d8%af%d9%8a%d8%af_-%d9%84%d9%84%d8%b7%d8%b1%d9%82%d8%a7%d8%aa_-%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%82%d8%a9-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7/",
-      "published_date": "2026-08-26T21:18:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bejaia fires.. The Ministers of Interior and Health inspect the injured at Souk Hospital on Monday",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-_%d8%a8%d8%ac%d8%a7%d9%8a%d8%a9_-%d9%88%d8%b2%d9%8a%d8%b1%d8%a7-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d9%8a%d8%aa%d9%81/",
-      "published_date": "2026-08-26T20:34:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New seats for municipal and state popular councils",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84%d8%b3-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d8%a9-%d9%88%d8%a7/",
-      "published_date": "2026-08-26T20:22:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Received by Tebboune, the president of Anie undertakes to “work in complete independence”",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/recu-par-tebboune-le-president-de-lanie-sengage-a-travailler-en-toute-independance/",
-      "published_date": "2026-08-26T20:11:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fires in Béjaïa: two dead and families evacuated",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/incendies-a-bejaia-deux-morts-et-des-familles-evacuees/",
-      "published_date": "2026-08-26T19:43:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil status: educational establishments can no longer require these documents in paper version",
+      "title": "Transfer of teachers: results published this evening",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/etat-civil-les-etablissements-scolaires-ne-peuvent-plus-exiger-ces-documents-en-version-papier/",
-      "published_date": "2026-08-26T19:21:01Z",
+      "url": "https://www.algerie360.com/mutation-des-enseignants-resultats-publies-ce-soir/",
+      "published_date": "2026-08-27T18:26:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Party committees to “inspect” candidacy files for the position of “mir”",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%84%d8%ac%d8%a7%d9%86-%d8%ad%d8%b2%d8%a8%d9%8a%d8%a9-%d9%84%d9%80%d8%aa%d9%81%d8%aa%d9%8a%d8%b4-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d8%ad-%d9%84%d9%85%d9%86%d8%b5",
-      "published_date": "2026-08-26T19:16:05Z",
+      "title": "Officially... Saed Arous assumes his duties as head of the Independent National Elections Authority",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b3%d8%a7%d8%b9%d8%af-%d8%b9%d8%b1%d9%88%d8%b3-%d9%8a%d8%aa%d8%b3%d9%84%d9%91%d9%85-%d9%85%d9%87%d8%a7%d9%85%d9%87-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a7%d9%8b-%d9%84%d9%84/",
+      "published_date": "2026-08-27T18:14:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Tottenham competes with Napoli for Guiri",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85-%d9%8a%d9%86%d8%a7%d9%81%d8%b3-%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a-%d8%b9%d9%84%d9%89-%d8%ba%d9%88%d9%8a%d8%b1%d9%8a",
-      "published_date": "2026-08-26T19:12:37Z",
+      "title": "Ben Ayed returns to ES Setif",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a8%d9%86-%d8%b9%d9%8a%d8%a7%d8%af-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d9%88%d9%81%d8%a7%d9%82-%d8%b3%d8%b7%d9%8a%d9%81/",
+      "published_date": "2026-08-27T18:04:12Z",
       "category": "Local Events"
     },
     {
-      "title": "This is how the Germans behaved with the appointment of coach Klopp",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%87%d9%83%d8%b0%d8%a7-%d8%aa%d8%b5%d8%b1%d9%91%d9%81-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86-%d9%85%d8%b9-%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d9%83%d9%84%d9%88",
-      "published_date": "2026-08-26T19:05:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mouloudia Algeria in order to continue dominance in the face of fierce competition",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%85%d9%88%d9%84%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a9-%d8%a7%d9%84%d9%87%d9%8a%d9%85%d9%86%d8%a9",
-      "published_date": "2026-08-26T19:01:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algeria: The FAF sets a deadline to replace Petkovic!",
+      "title": "Qatar: Bounedjah scores from midfield! (Video)",
       "source": "DzFoot",
-      "url": "https://www.dzfoot.com/equipes-nationales/algerie-la-faf-fixe-une-date-butoir-pour-remplacer-petkovic-298152.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-08-26T19:01:09Z",
+      "url": "https://www.dzfoot.com/verts-deurope/qatar-bounedjah-marque-depuis-le-milieu-de-terrain-video-298218.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-08-27T17:43:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "European Union: We salute the “exceptional courage and dedication” of the firefighting teams in Algeria",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d9%86%d8%ad%d9%8a%d9%91%d9%8a-%d8%a7%d9%84%d8%b4%d8%ac%d8%a7%d8%b9%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%81",
+      "published_date": "2026-08-27T17:22:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A deep partial eclipse in the sky of Algeria",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%ae%d8%b3%d9%88%d9%81-%d8%ac%d8%b2%d8%a6%d9%8a-%d8%b9%d9%85%d9%8a%d9%82-%d9%81%d9%8a-%d8%b3%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1",
+      "published_date": "2026-08-27T17:09:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Prime Minister is in Jijel to monitor the situation resulting from the fires on the ground",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%81%d9%8a-%d8%ac%d9%8a%d8%ac%d9%84-%d9%84%d9%84%d9%88%d9%82%d9%88%d9%81-%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a%d9%8b%d8%a7-%d8%b9",
+      "published_date": "2026-08-27T16:39:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MSF suspends its operations",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
+      "published_date": "2026-08-27T15:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forest fires: Despite 45 outbreaks brought under control, these 14 wilayas are still fighting against the flames",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/feux-de-foret-malgre-45-foyers-maitrises-ces-14-wilayas-luttent-toujours-contre-les-flammes/",
+      "published_date": "2026-08-27T15:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saed Arous assumes his duties as head of the Independent National Elections Authority",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%b3%d8%a7%d8%b9%d8%af-%d8%b9%d8%b1%d9%88%d8%b3-%d9%8a%d8%aa%d8%b3%d9%84%d9%85-%d9%85%d9%87%d8%a7%d9%85%d9%87-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a7-%d9%84%d9%84%d8%b3%d9%91%d9%84%d8%b7%d8%a9-%d8%a7%d9%84",
+      "published_date": "2026-08-27T15:24:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Determine the number of seats in state and municipal people’s assemblies",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%af-%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84%d8%b3-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d8%a7",
+      "published_date": "2026-08-27T15:23:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the 22 met at Lyes Derriche (July 25, 1954)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
+      "published_date": "2026-08-27T15:06:00Z",
       "category": "Local Events"
     }
   ]
