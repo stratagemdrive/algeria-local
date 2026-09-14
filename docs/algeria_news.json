@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T14:49:09Z",
+  "generated_at": "2026-09-14T00:44:40Z",
   "country": "Algeria",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Alger : une panne technique perturbe la distribution d’eau dans ces communes",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/alger-une-panne-technique-perturbe-la-distribution-deau-dans-ces-communes/",
+      "published_date": "2026-09-13T18:53:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "1800 téléphones dérobés d’une société : une femme de ménage au cœur d’un préjudice financier de 5 mds",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/1800-telephones-derobes-dune-societe-une-femme-de-menage-au-coeur-dun-prejudice-financier-de-5-mds/",
+      "published_date": "2026-09-13T17:47:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France : Bourabaa régale avec un but et une passe décisive (vidéo)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/france-bourabaa-regale-avec-un-but-et-une-passe-decisive-video-299045.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-09-13T17:18:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pays-Bas : Hadj Moussa sort le grand jeu et s'offre un magnifique doublé (vidéo)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/pays-bas-hadj-moussa-sort-le-grand-jeu-et-soffre-un-magnifique-double-video-299041.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-09-13T16:50:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vidéo. Tebboune reçoit Massad Boulos, conseiller spécial de Trump",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/video-tebboune-recoit-massad-boulos-conseiller-special-de-trump/",
+      "published_date": "2026-09-13T16:33:27Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Maroc – Espagne : le grand numéro d’équilibriste de Rabat",
       "source": "TSA Algérie",
@@ -113,41 +148,6 @@
       "source": "TSA Algérie",
       "url": "https://www.tsa-algerie.com/titres-de-sejour-en-europe-les-algeriens-absents-du-top-10-les-marocains-bien-places/",
       "published_date": "2026-09-12T19:10:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Équipe d’Algérie : pourquoi la FAF doit faire vite pour Mezian Mesloub",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/equipe-dalgerie-pourquoi-la-faf-doit-faire-vite-pour-mezian-mesloub/",
-      "published_date": "2026-09-12T17:10:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bachir Belloumi inscrit un magnifique doublé face à Chelsea en Premier League",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/bachir-belloum-inscrit-un-magnifique-double-face-a-chelsea-en-premier-league/",
-      "published_date": "2026-09-12T16:35:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EPL : Belloumi renverse Chelsea avec un doublé ! (Vidéo)",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/epl-belloumi-renverse-chelsea-avec-un-double-video-299007.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-09-12T14:51:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "By breaking with Abu Dhabi, Algeria highlights the dangerous game of the Emirates",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/en-rompant-avec-abu-dhabi-lalgerie-met-en-lumiere-le-jeu-dangereux-des-emirats/",
-      "published_date": "2026-09-12T14:40:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Naturalisée algérienne cet été, Elaine Mokhtefi, figure de la révolution s’éteint à 98 ans",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/naturalisee-algerienne-cet-ete-elaine-mokhtefi-figure-de-la-revolution-seteint-a-98-ans/",
-      "published_date": "2026-09-12T13:31:06Z",
       "category": "Diplomacy"
     },
     {
@@ -291,6 +291,20 @@
       "category": "Military"
     },
     {
+      "title": "Sécurité, énergie et commerce : les enjeux de la visite de Massad Boulos en Algérie",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/securite-energie-et-commerce-les-enjeux-de-la-visite-de-massad-boulos-en-algerie/",
+      "published_date": "2026-09-13T20:28:26Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Géraldine Nakache raconte son émouvant voyage avec ses parents en Algérie",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/geraldine-nakache-raconte-son-emouvant-voyage-avec-ses-parents-en-algerie/",
+      "published_date": "2026-09-13T16:56:31Z",
+      "category": "Energy"
+    },
+    {
       "title": "Hydrocarbures : Après Londres, Rome et Pékin, le Bid Round 2026 séduit aussi Jakarta",
       "source": "Algerie360",
       "url": "https://www.algerie360.com/hydrocarbures-apres-londres-rome-et-pekin-le-bid-round-2026-seduit-aussi-jakarta/",
@@ -417,18 +431,25 @@
       "category": "Energy"
     },
     {
-      "title": "Minister of Energy: Works on the “Tet” station in Tamanrasset will begin next week",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a3%d8%b4%d8%ba%d8%a7%d9%84-%d9%85%d8%ad%d8%b7%d8%a9-%d8%aa%d9%8a%d8%aa-%d8%a8%d8%aa%d9%85/",
-      "published_date": "2026-09-08T12:17:40Z",
-      "category": "Energy"
+      "title": "L’Algérie lance un nouvel appel d’offres pour l’achat de blé tendre",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/lalgerie-lance-un-nouvel-appel-doffres-pour-lachat-de-ble-tendre/",
+      "published_date": "2026-09-13T20:08:20Z",
+      "category": "Economy"
     },
     {
-      "title": "The 2027 budget for the energy sector... setting priorities and consolidating strategic directions",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%85%d9%8a%d8%b2%d8%a7%d9%86%d9%8a%d8%a9-2027-%d9%84%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%b6%d8%a8%d8%b7-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a7%d8%aa-%d9%88/",
-      "published_date": "2026-09-08T11:56:29Z",
-      "category": "Energy"
+      "title": "Le poulet hors de prix en Algérie : les raisons de la flambée",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/le-poulet-hors-de-prix-en-algerie-les-raisons-de-la-flambee/",
+      "published_date": "2026-09-13T18:24:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "L’Algérie face au défi des transferts « invisibles » de devises",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/lalgerie-face-au-defi-des-transferts-invisibles-de-devises/",
+      "published_date": "2026-09-13T17:37:10Z",
+      "category": "Economy"
     },
     {
       "title": "Industrie automobile : le nouveau pari à 300 milliards de dinars de l’Algérie",
@@ -550,164 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Hajj 2027: ONPO launches an important appeal to future Algerian pilgrims",
+      "title": "Sila 2022: Adib Benazzi auteur de \"Marée basse\" (éditions Dalimen)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
+      "published_date": "2026-09-14T12:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: \"Le Hic\" auteur de \"Juste pour le plaisir\"",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
+      "published_date": "2026-09-14T12:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LA BOURGEOISE",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/la-bourgeoise-376435",
+      "published_date": "2026-09-14T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La documentation de “Liberté” conservée",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/actualite/la-documentation-de-liberte-conservee-376439",
+      "published_date": "2026-09-14T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“LES SACRIFICES...”",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/les-sacrifices-376436",
+      "published_date": "2026-09-14T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "À chacun sa prédiction",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/a-chacun-sa-prediction-6149",
+      "published_date": "2026-09-14T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Requiem",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
+      "published_date": "2026-09-14T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le ressenti et le chiffre brut",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
+      "published_date": "2026-09-14T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saisie du parc automobile de Mahieddine Tahkout",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
+      "published_date": "2026-09-14T11:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "سجاتي: “أهدي تتويجي العالمي للشعب الجزائري والرئيس تبون”",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b3%d8%ac%d8%a7%d8%aa%d9%8a-%d8%a3%d9%87%d8%af%d9%8a-%d8%aa%d8%aa%d9%88%d9%8a%d8%ac%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d9%84%d9%84%d8%b4%d8%b9%d8%a8-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7/",
+      "published_date": "2026-09-13T22:31:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "معسكر.. 4 قتلى وجريح في اصطدام بين سيارتين",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%85%d8%b9%d8%b3%d9%83%d8%b1-4-%d9%82%d8%aa%d9%84%d9%89-%d9%88%d8%ac%d8%b1%d9%8a%d8%ad-%d9%81%d9%8a-%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85-%d8%a8%d9%8a%d9%86-%d8%b3%d9%8a%d8%a7%d8%b1%d8%aa%d9%8a/",
+      "published_date": "2026-09-13T21:58:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الفريق أول شنقريحة يهنئ سجاتي بعد إحرازه ذهبية 800 متر في بطولة العالم للنخبة",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d8%a3%d9%88%d9%84-%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9-%d9%8a%d9%87%d9%86%d8%a6-%d8%b3%d8%ac%d8%a7%d8%aa%d9%8a-%d8%a8%d8%b9%d8%af-%d8%a5%d8%ad%d8%b1%d8%a7/",
+      "published_date": "2026-09-13T21:44:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الأمية",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%a3%d9%85%d9%8a%d8%a9-2",
+      "published_date": "2026-09-13T19:55:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الدنمارك تفتح جبهة جديدة ضد إنفانتينو",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83-%d8%aa%d9%81%d8%aa%d8%ad-%d8%ac%d8%a8%d9%87%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b6%d8%af-%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88",
+      "published_date": "2026-09-13T19:46:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ذهبية عالمية للعدّاء سجاتي",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%b0%d9%87%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-%d9%84%d9%84%d8%b9%d8%af%d9%91%d8%a7%d8%a1-%d8%b3%d8%ac%d8%a7%d8%aa%d9%8a",
+      "published_date": "2026-09-13T19:24:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الرئيس تبون يهنّئ سجاتي بعد تتويجه بسباق 800 متر ببودابست",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%aa%d8%a8%d9%88%d9%86-%d9%8a%d9%87%d9%86%d9%91%d8%a6-%d8%b3%d8%ac%d8%a7%d8%aa%d9%8a-%d8%a8%d8%b9%d8%af-%d8%aa%d8%aa%d9%88%d9%8a%d8%ac%d9%87-%d8%a8%d8%b3%d8%a8/",
+      "published_date": "2026-09-13T19:21:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Athlétisme : Djamel Sedjati décroche l’or à l’Ultimate Championship de Budapest",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/athletisme-djamel-sedjati-decroche-lor-a-lultimate-championship-de-budapest/",
+      "published_date": "2026-09-13T19:19:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "سعيود يتابع مدى تجسيد المنصة الرقمية لمتابعة الأحزاب السياسية",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b3%d8%b9%d9%8a%d9%88%d8%af-%d9%8a%d8%aa%d8%a7%d8%a8%d8%b9-%d9%85%d8%af%d9%89-%d8%aa%d8%ac%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9-%d9%84/",
+      "published_date": "2026-09-13T19:08:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Il profanait le Coran pour ses rituels : coup de filet de la police à Saïda",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/hadj-2027-onpo-dzair-digital-services/",
-      "published_date": "2026-09-10T13:18:45Z",
-      "category": "Economy"
+      "url": "https://www.algerie360.com/il-profanait-le-coran-pour-ses-rituels-coup-de-filet-de-la-police-a-saida/",
+      "published_date": "2026-09-13T19:05:11Z",
+      "category": "Local Events"
     },
     {
-      "title": "ITUZA: End of the summer transfer program",
+      "title": "نقل بحري.. تأجيل رحلة مرسيليا – وهران إلى هذا الموعد",
       "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a5%d9%8a%d8%aa%d9%88%d8%b2%d8%a7-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a/",
-      "published_date": "2026-09-10T12:10:07Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Important notice for pilgrims",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d9%84%d8%a7%d8%ba-%d9%87%d8%a7%d9%85-%d9%84%d9%84%d8%ad%d8%ac%d8%a7%d8%ac-6/",
-      "published_date": "2026-09-09T21:06:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "MSF suspend ses opérations",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
-      "published_date": "2026-09-13T15:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comment les 22 se sont réunis chez Lyes Derriche (25 juillet 1954)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
-      "published_date": "2026-09-13T15:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "تساقط أمطار رعدية على هذه الولايات مساء اليوم",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%aa%d8%b3%d8%a7%d9%82%d8%b7-%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%b1%d8%b9%d8%af%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d9%85%d8%b3-11/",
-      "published_date": "2026-09-13T14:35:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "سرعة جنونية لسائق سيارة تتسبّب في وفاة رب عائلة ببرج الكيفان",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b3%d8%b1%d8%b9%d8%a9-%d8%ac%d9%86%d9%88%d9%86%d9%8a%d8%a9-%d9%84%d8%b3%d8%a7%d8%a6%d9%82-%d8%b3%d9%8a%d8%a7%d8%b1%d8%a9-%d8%aa%d8%aa%d8%b3%d8%a8%d9%91%d8%a8-%d9%81%d9%8a-%d9%88%d9%81%d8%a7%d8%a9/",
-      "published_date": "2026-09-13T14:35:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "وفاة شخصين وإصابة 3 آخرين في حادث مرور بالمنيعة",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%88%d9%81%d8%a7%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-3-%d8%a2%d8%ae%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%ad%d8%a7%d8%af%d8%ab-%d9%85%d8%b1%d9%88%d8%b1-%d8%a8-6/",
-      "published_date": "2026-09-13T14:27:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Des millions de personnes manquent de nourriture durant le Ramadan",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/flash-actualite/des-millions-de-personnes-manquent-de-nourriture-durant-le-ramadan-13",
-      "published_date": "2026-09-13T14:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "منظفة و3 موظفين يسرقون 1800 هاتف نقال ويكبّدون شركة خاصة خسائر بالملايير بالعاشور",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%85%d9%86%d8%b8%d9%81%d8%a9-%d9%883-%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86-%d9%8a%d8%b3%d8%b1%d9%82%d9%88%d9%86-1800-%d9%87%d8%a7%d8%aa%d9%81-%d9%86%d9%82%d8%a7%d9%84-%d9%88%d9%8a%d9%83%d8%a8%d9%91/",
-      "published_date": "2026-09-13T14:22:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "عميد جامع الجزائر في موريتانيا للمشاركة في المؤتمر الدّوليّ الـ39 للسّيرة النّبويّة",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%b9%d9%85%d9%8a%d8%af-%d8%ac%d8%a7%d9%85%d8%b9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d9%85%d9%88%d8%b1%d9%8a%d8%aa%d8%a7%d9%86%d9%8a%d8%a7-%d9%84%d9%84%d9%85%d8%b4%d8%a7%d8%b1",
-      "published_date": "2026-09-13T14:17:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الجزائر في 2027….نعم الوعد وبئس الوعيد، بين المناعة والخنوع!",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-2027-%d9%86%d8%b9%d9%85-%d8%a7%d9%84%d9%88%d8%b9%d8%af-%d9%88%d8%a8%d8%a6%d8%b3-%d8%a7%d9%84%d9%88%d8%b9%d9%8a%d8%af%d8%8c-%d8%a8%d9%8a%d9%86",
-      "published_date": "2026-09-13T14:09:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rentrée judiciaire : ces lourds dossiers de corruption au programme",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/rentree-judiciaire-ces-lourds-dossiers-de-corruption-sur-la-table-de-la-justice/",
-      "published_date": "2026-09-13T14:06:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "بوفدش تستقبل الوزير والي ولاية الجزائر",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d9%88%d9%81%d8%af%d8%b4-%d8%aa%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%8a-%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6/",
-      "published_date": "2026-09-13T13:50:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الجزائر تشارك بطواف البحر “المتصدي” في تمرين الأمن البحري المشترك على سواحل ليبيا",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d8%b4%d8%a7%d8%b1%d9%83-%d8%a8%d8%b7%d9%88%d8%a7%d9%81-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d8%af%d9%8a-%d9%81%d9%8a",
-      "published_date": "2026-09-13T13:47:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "تخرج 402 عون شرطة بمدرسة الشرطة “محمد واضح” بعين البنيان",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%aa%d8%ae%d8%b1%d8%ac-402-%d8%b9%d9%88%d9%86-%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a8%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d9%85%d8%ad%d9%85%d8%af-%d9%88%d8%a7%d8%b6%d8%ad/",
-      "published_date": "2026-09-13T13:46:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report au 20 avril du procès des accusés dans l'affaire du groupe Metidji",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/flash-actualite/report-au-20-avril-du-proces-des-accuses-dans-l-affaire-du-groupe-metidji-16",
-      "published_date": "2026-09-13T13:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "بطولة إفريقيا لـ”الكاراتي”.. برونزية لـ”رجال” الجزائر في الكوميتي",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%80%d8%a7%d9%84%d9%83%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a-%d8%a8%d8%b1%d9%88%d9%86%d8%b2%d9%8a%d8%a9-%d9%84%d9%80-2/",
-      "published_date": "2026-09-13T13:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migration : la route depuis l’Algérie vers l’Espagne en forte hausse",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/migration-algerie-espagne-frontex-2026/",
-      "published_date": "2026-09-13T13:21:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "مسجد من فجر الإسلام.. اكتشاف أثري جديد في السعودية (صور)",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%85%d8%b3%d8%ac%d8%af-%d9%85%d9%86-%d9%81%d8%ac%d8%b1-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d8%a3%d8%ab%d8%b1%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%81",
-      "published_date": "2026-09-13T13:06:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "L'ex-président Blaise Compaoré condamné à vie pour l'assassinat de Thomas Sankara",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/flash-actualite/l-ex-president-blaise-compaore-condamne-a-vie-pour-l-assassinat-de-thomas-sankara-15",
-      "published_date": "2026-09-13T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "حين صدّرت الجزائر خبرتها النفطية إلى أبو ظبي.. قصة الرجل الذي تناسته الإمارات",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%ad%d9%8a%d9%86-%d8%b5%d8%af%d9%91%d8%b1%d8%aa-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%ae%d8%a8%d8%b1%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%a3",
-      "published_date": "2026-09-13T12:25:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sila 2022: Ahmed Benzelikha auteur de \"Les Dupes\" (Casbah éditions)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
-      "published_date": "2026-09-13T12:16:00Z",
+      "url": "https://www.ennaharonline.com/%d9%86%d9%82%d9%84-%d8%a8%d8%ad%d8%b1%d9%8a-%d8%aa%d8%a3%d8%ac%d9%8a%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d9%85%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7-%d9%88%d9%87%d8%b1%d8%a7%d9%86-%d8%a5%d9%84%d9%89/",
+      "published_date": "2026-09-13T19:04:26Z",
       "category": "Local Events"
     }
   ]
