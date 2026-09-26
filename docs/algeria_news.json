@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T01:12:20Z",
+  "generated_at": "2026-09-26T14:53:42Z",
   "country": "Algeria",
-  "total_stories": 76,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,76 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Équipe d’Algérie : Brahim Hemdani écarte Rayan Aït Nouri",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/equipe-dalgerie-brahim-hemdani-ecarte-rayan-ait-nouri/",
+      "published_date": "2026-09-26T14:05:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ALERTE. Équipe d’Algérie : première sanction de Hemdani contre Rayan Ait Nouri",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/alerte-equipe-dalgerie-premiere-sanction-de-hemdani-contre-rayan-ait-nouri/",
+      "published_date": "2026-09-26T13:25:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Le président du Parlement grec entame une visite officielle en Algérie",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/le-president-du-parlement-grec-entame-une-visite-officielle-en-algerie",
+      "published_date": "2026-09-26T12:49:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Massad Boulos : « Aucune solution imminente au Sahara occidental »",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/massad-boulos-aucune-solution-imminente-au-sahara-occidental/",
+      "published_date": "2026-09-26T12:31:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maroc – Israël : colère dans la rue marocaine après l’accord sur les ambassades",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/maroc-israel-colere-dans-la-rue-marocaine-apres-laccord-sur-les-ambassades/",
+      "published_date": "2026-09-26T11:05:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "« Le Niger est debout grâce à l’Algérie », déclare son PM à l’ONU",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/le-niger-est-debout-grace-a-lalgerie-declare-son-pm-a-lonu/",
+      "published_date": "2026-09-26T08:17:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algérie : Double passeur, Amoura termine en larmes ! (Vidéo)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/equipes-nationales/algerie-double-passeur-amoura-termine-en-larmes-video-299777.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-09-26T06:38:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algérie - Zambie : Zorgane, « Un nouveau souffle avec l’équipe » (vidéo)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/equipes-nationales/algerie-zambie-zorgane-un-nouveau-souffle-avec-lequipe-video-299782.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-09-26T06:25:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Équipe d’Algérie : gros clash Hemdani – Rayan Aït Nouri, que s’est-il passé ?",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/equipe-dalgerie-gros-clash-hemdani-rayan-ait-nouri-que-sest-il-passe/",
+      "published_date": "2026-09-26T06:16:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hemdani – Ait-Nouri : altercation en plein match Algérie-Zambie",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/hemdani-ait-nouri-altercation-en-plein-match-algerie-zambie/",
+      "published_date": "2026-09-26T03:59:47Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Législatives au Maroc : miracle au royaume désenchanté",
       "source": "TSA Algérie",
@@ -81,76 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Maladie de Ménière ou vertige de Ménière : qu'est-ce que c'est ?",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/la-rubrique-de-la-famille/maladie-de-meniere-ou-vertige-de-meniere-qu-est-ce-que-c-est-376442",
-      "published_date": "2026-09-25T12:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trajectoire d’un chroniqueur en… Liberté",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/actualite/trajectoire-d-un-chroniqueur-en-liberte-376438",
-      "published_date": "2026-09-25T12:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "L’autel est dressé",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/l-autel-est-dresse-6148",
-      "published_date": "2026-09-25T12:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Des dizaines de personnes intoxiquées après avoir consommé du mille-feuille à Djelfa",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/intoxication-mille-feuille-hassi-bahbah-djelfa/",
-      "published_date": "2026-09-25T10:02:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Titre de séjour, OQTF : 5 critères pour bien choisir son avocat en France",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/titre-de-sejour-oqtf-5-criteres-pour-bien-choisir-son-avocat-en-france/",
-      "published_date": "2026-09-25T09:00:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Verts : La valeur de Bourabaa multipliée par 12 !",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/verts-la-valeur-de-bourabaa-multipliee-par-12-299700.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-09-25T07:47:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Route Dakhla-Nouakchott : forcing marocain, ambiguïté mauritanienne et financement émirati",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/route-dakhla-nouakchott-forcing-marocain-ambiguite-mauritanienne-et-financement-emirati/",
-      "published_date": "2026-09-25T07:33:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Benyamin Netanyahu devant l’ONU : le Maroc, seul pays du Maghreb à assister",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/benyamin-netanyahu-devant-lonu-77-pays-ont-quitte-la-salle/",
-      "published_date": "2026-09-25T07:02:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Petkovic repart finalement avec 2 millions d'euros !",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/divers/petkovic-repart-finalement-avec-2-millions-deuros-299684.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-09-25T06:52:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alger et Madrid préparent un forum d’affaires après leur rencontre à l’ONU",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/algerie-espagne-forum-affaires-sommet-octobre/",
-      "published_date": "2026-09-24T18:19:36Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Air Algérie retourne à Doha après 7 mois de suspension",
       "source": "TSA Algérie",
       "url": "https://www.tsa-algerie.com/air-algerie-retourne-a-doha-apres-7-mois-de-suspension/",
@@ -214,13 +214,6 @@
       "category": "Military"
     },
     {
-      "title": "Le Général d’Armée Saïd Chanegriha honore le champion du monde Djamel Sedjati",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/le-general-darmee-said-chanegriha-honore-le-champion-du-monde-djamel-sedjati",
-      "published_date": "2026-09-19T12:35:33Z",
-      "category": "Military"
-    },
-    {
       "title": "Gaz naturel : 62,6 milliards m³ produits en 7 mois, la consommation algérienne grimpe de 7 %",
       "source": "Algerie360",
       "url": "https://www.algerie360.com/gaz-naturel-algerie-production-consommation-juillet-2026/",
@@ -261,6 +254,20 @@
       "url": "https://www.algerie360.com/adjal-gaz-naturel-gaspillage-efficacite-energetique/",
       "published_date": "2026-09-20T17:13:10Z",
       "category": "Energy"
+    },
+    {
+      "title": "Œufs en Algérie : les prix doublent, le plateau frôle désormais à 680 DA",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/prix-oeufs-algerie-plateau-680-da/",
+      "published_date": "2026-09-26T14:46:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Viandes rouges en Algérie : les importateurs déjà mobilisés pour le Ramadan 2027",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/viande-rouge-algerie-ramadhan-2027-abdelatif/",
+      "published_date": "2026-09-26T11:13:13Z",
+      "category": "Economy"
     },
     {
       "title": "Algérie - Zambie (3-1) : Les notes des Verts !",
@@ -389,157 +396,143 @@
       "category": "Economy"
     },
     {
-      "title": "Obligatoire dans les véhicules : les prix de l’extincteur s’envolent en Algérie",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/obligatoire-dans-les-vehicules-les-prix-de-lextincteur-senvolent-en-algerie/",
-      "published_date": "2026-09-22T18:29:48Z",
-      "category": "Economy"
+      "title": "MSF suspend ses opérations",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
+      "published_date": "2026-09-26T15:58:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Marques internationales : Rezig annonce de nouvelles implantations en Algérie",
+      "title": "Comment les 22 se sont réunis chez Lyes Derriche (25 juillet 1954)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
+      "published_date": "2026-09-26T15:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الجزائر تُؤكد التزامها باحترام سيادة دول الساحل واستقلالها",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d9%8f%d8%a4%d9%83%d8%af-%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85%d9%87%d8%a7-%d8%a8%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%85-%d8%b3%d9%8a%d8%a7%d8%af%d8%a9/",
+      "published_date": "2026-09-26T14:40:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "عطاف يؤكد من نيويورك التزام الجزائر بدعم أمن واستقرار دول الساحل",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%b9%d8%b7%d8%a7%d9%81-%d9%8a%d8%a4%d9%83%d8%af-%d9%85%d9%86-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a8%d8%af",
+      "published_date": "2026-09-26T14:38:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Des millions de personnes manquent de nourriture durant le Ramadan",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/des-millions-de-personnes-manquent-de-nourriture-durant-le-ramadan-13",
+      "published_date": "2026-09-26T14:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الجزائر واليونان توقعان على بروتوكول تعاون برلماني",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%86-%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d9%86-%d8%b9%d9%84%d9%89-%d8%a8%d8%b1%d9%88%d8%aa%d9%88%d9%83%d9%88%d9%84",
+      "published_date": "2026-09-26T14:24:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "عطاف يبحث رفع مستوى التعاون بين الجزائر ومملكة ليسوتو",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b9%d8%b7%d8%a7%d9%81-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%b1%d9%81%d8%b9-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6/",
+      "published_date": "2026-09-26T14:16:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "عطاف يبحث المسائل المتصلة باتفاق الشراكة بين الجزائر والاتحاد الأوروبي",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b9%d8%b7%d8%a7%d9%81-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%84%d8%a9-%d8%a8%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b4%d8%b1/",
+      "published_date": "2026-09-26T14:12:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الجزائر وباكستان يبحثان تعزيز العلاقات الثنائية بشكل معمق",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%a8%d8%a7%d9%83%d8%b3%d8%aa%d8%a7%d9%86-%d9%8a%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82/",
+      "published_date": "2026-09-26T14:08:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الجمارك تحجز 1800 قرص مهلوس بسوق أهراس",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b1%d9%83-%d8%aa%d8%ad%d8%ac%d8%b2-1800-%d9%82%d8%b1%d8%b5-%d9%85%d9%87%d9%84%d9%88%d8%b3-%d8%a8%d8%b3%d9%88%d9%82-%d8%a3%d9%87%d8%b1%d8%a7%d8%b3/",
+      "published_date": "2026-09-26T14:03:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "عطاف يبحث مع نظيره القيرغيزي تعزيز التنسيق والتشاور داخل مجلس الأمن",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b9%d8%b7%d8%a7%d9%81-%d9%8a%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d9%86%d8%b8%d9%8a%d8%b1%d9%87-%d8%a7%d9%84%d9%82%d9%8a%d8%b1%d8%ba%d9%8a%d8%b2%d9%8a-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%aa/",
+      "published_date": "2026-09-26T13:59:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recrutement en Algérie : le secteur de la santé ouvre 1 500 postes",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/rezig-marques-internationales-implantation-algerie/",
-      "published_date": "2026-09-22T17:54:50Z",
-      "category": "Economy"
-    },
-    {
-      "title": "L'ex-président Blaise Compaoré condamné à vie pour l'assassinat de Thomas Sankara",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/flash-actualite/l-ex-president-blaise-compaore-condamne-a-vie-pour-l-assassinat-de-thomas-sankara-15",
-      "published_date": "2026-09-26T13:00:00Z",
+      "url": "https://www.algerie360.com/recrutement-sante-aides-soignants-algerie/",
+      "published_date": "2026-09-26T13:54:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Sila 2022: Ahmed Benzelikha auteur de \"Les Dupes\" (Casbah éditions)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
-      "published_date": "2026-09-26T12:16:00Z",
+      "title": "تنصيب مجموعة الصداقة البرلمانية المشتركة “الجزائرية-اليونانية”",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b4",
+      "published_date": "2026-09-26T13:48:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Sila 2022: Adib Benazzi auteur de \"Marée basse\" (éditions Dalimen)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
-      "published_date": "2026-09-26T12:12:00Z",
+      "title": "الجزائر وأنغولا يُجددان دعمهما لحق الشعب الصحراوي في تقرير مصيره",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%a3%d9%86%d8%ba%d9%88%d9%84%d8%a7-%d9%8a%d9%8f%d8%ac%d8%af%d8%af%d8%a7%d9%86-%d8%af%d8%b9%d9%85%d9%87%d9%85%d8%a7-%d9%84%d8%ad%d9%82-%d8%a7%d9%84/",
+      "published_date": "2026-09-26T13:47:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Sila 2022: \"Le Hic\" auteur de \"Juste pour le plaisir\"",
+      "title": "Report au 20 avril du procès des accusés dans l'affaire du groupe Metidji",
       "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
-      "published_date": "2026-09-26T12:01:00Z",
+      "url": "https://www.liberte-algerie.com/flash-actualite/report-au-20-avril-du-proces-des-accuses-dans-l-affaire-du-groupe-metidji-16",
+      "published_date": "2026-09-26T13:35:00Z",
       "category": "Local Events"
     },
     {
-      "title": "LA BOURGEOISE",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/la-bourgeoise-376435",
-      "published_date": "2026-09-26T12:00:00Z",
+      "title": "تجديد الحظيرة الوطنية للنقل عبر مختلف ولايات الوطن",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d8%b8%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%84%d9%84%d9%86%d9%82%d9%84-%d8%b9%d8%a8%d8%b1-%d9%85%d8%ae%d8%aa%d9%84%d9%81/",
+      "published_date": "2026-09-26T13:34:57Z",
       "category": "Local Events"
     },
     {
-      "title": "La documentation de “Liberté” conservée",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/actualite/la-documentation-de-liberte-conservee-376439",
-      "published_date": "2026-09-26T12:00:00Z",
+      "title": "تنصيب مجموعة الصداقة البرلمانية الجزائرية ـ الهيلينية",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2-5/",
+      "published_date": "2026-09-26T13:30:49Z",
       "category": "Local Events"
     },
     {
-      "title": "“LES SACRIFICES...”",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/les-sacrifices-376436",
-      "published_date": "2026-09-26T12:00:00Z",
+      "title": "Algérie : Rayan Aït-Nouri viré par Brahim Hemdani ! (Officiel)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/equipes-nationales/algerie-rayan-ait-nouri-vire-par-brahim-hemdani-officiel-299803.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-09-26T13:29:51Z",
       "category": "Local Events"
     },
     {
-      "title": "À chacun sa prédiction",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/a-chacun-sa-prediction-6149",
-      "published_date": "2026-09-26T12:00:00Z",
+      "title": "توقيع بروتوكول التعاون البرلماني بين مجلس الأمة وبرلمان الجمهورية الهيلينية",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a8%d8%b1%d9%88%d8%aa%d9%88%d9%83%d9%88%d9%84-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d8%a8%d9%8a%d9%86/",
+      "published_date": "2026-09-26T13:23:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Requiem",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
-      "published_date": "2026-09-26T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le ressenti et le chiffre brut",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
-      "published_date": "2026-09-26T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saisie du parc automobile de Mahieddine Tahkout",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
-      "published_date": "2026-09-26T11:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hemdani savoure la victoire de l’EN face à la Zambie (3-1)",
+      "title": "Rayan Aït Nouri exclu des Verts après son coup de sang face à la Zambie",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/algerie-zambie-hemdani-reaction-can-2027/",
-      "published_date": "2026-09-25T23:17:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "حمداني يرفض التعليق على حادثة آيت نوري",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%82-%d8%b9%d9%84%d9%89-%d8%ad%d8%a7%d8%af%d8%ab%d8%a9-%d8%a2%d9%8a%d8%aa-%d9%86%d9%88%d8%b1%d9%8a/",
-      "published_date": "2026-09-25T22:36:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hemdani gagne ses débuts : Algérie 3-1 Zambie",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/algerie-zambie-3-1-hemdani-can-2027/",
-      "published_date": "2026-09-25T22:32:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "حمداني يكشف مفاجأة إصابة غويري ويترقب الفحوصات",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%ba%d9%88%d9%8a%d8%b1%d9%8a-%d9%88%d9%8a%d8%aa%d8%b1%d9%82%d8%a8/",
-      "published_date": "2026-09-25T22:28:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le géant de l’automobile BMW prépare son grand come-back en Algérie",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/bmw-usine-algerie-retour-marche/",
-      "published_date": "2026-09-25T22:16:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "بعد ثلاثية زامبيا.. حمداني يكشف ما أزعجه ويضع الخضر أمام أول تحدٍ في بوروندي",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d8%b9%d8%af-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-%d8%b2%d8%a7%d9%85%d8%a8%d9%8a%d8%a7-%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d9%85%d8%a7-%d8%a3%d8%b2%d8%b9%d8%ac%d9%87/",
-      "published_date": "2026-09-25T22:03:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "حمداني:”ردة فعل اللاعبين أعجبتني وراض عن مستوى عمورة”",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a%d8%b1%d8%af%d8%a9-%d9%81%d8%b9%d9%84-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a3%d8%b9%d8%ac%d8%a8%d8%aa%d9%86%d9%8a-%d9%88%d8%b1%d8%a7%d8%b6-%d8%b9/",
-      "published_date": "2026-09-25T21:54:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "حمداني:”حققنا الأهم وسنستهدف تكرار الفوز أمام بوروندي”",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a%d8%ad%d9%82%d9%82%d9%86%d8%a7-%d8%a7%d9%84%d8%a3%d9%87%d9%85-%d9%88%d8%b3%d9%86%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%aa%d9%83%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%81/",
-      "published_date": "2026-09-25T21:41:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CAN 2027, l’Algérie domine la Zambie : Hemdani réussit son premier test",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/can-2027-lalgerie-domine-la-zambie-hemdani-reussit-son-premier-test/",
-      "published_date": "2026-09-25T21:30:05Z",
+      "url": "https://www.algerie360.com/ait-nouri-exclu-verts-zambie-hemdani/",
+      "published_date": "2026-09-26T13:18:40Z",
       "category": "Local Events"
     }
   ]
