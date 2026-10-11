@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T01:34:18Z",
+  "generated_at": "2026-10-11T16:34:21Z",
   "country": "Algeria",
-  "total_stories": 77,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Angleterre : Belloumi frappe encore et permet à Hull d’accrocher Everton ! (vidéo)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/but/angleterre-belloumi-frappe-encore-et-permet-a-hull-daccrocher-everton-video-300681.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T15:06:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algérie : Bensebaïni sort du silence après la polémique !",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/equipes-nationales/selectionnesa/algerie-bensebaini-sort-du-silence-apres-la-polemique-300672.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T13:55:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Héritage immobilier en Algérie depuis l’étranger : les vérifications indispensables avant toute décision",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/heritage-immobilier-algerie-etranger-succession/",
+      "published_date": "2026-10-11T13:55:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israël impose à Air France de filtrer ses équipages : l’Algérie parmi les 31 nationalités visées",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/air-france-equipages-algeriens-directive-israelienne/",
+      "published_date": "2026-10-11T13:24:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Profanation du Coran : deux femmes arrêtées à Batna",
+      "source": "TSA Algérie",
+      "url": "https://www.tsa-algerie.com/profanation-du-coran-deux-femmes-arretees-a-batna/",
+      "published_date": "2026-10-11T13:23:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France : Nouvelle alerte pour Samir Chergui",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/france-nouvelle-alerte-pour-samir-chergui-300660.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T12:48:49Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trajectoire d’un chroniqueur en… Liberté",
       "source": "Liberté Algérie",
@@ -25,130 +67,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pays Bas : Hadj Moussa s'amuse avec son vis à vis ! (Vidéo)",
+      "title": "Un air de  \"LIBERTÉ\" s’en va",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/un-air-de-liberte-s-en-va-6150",
+      "published_date": "2026-10-11T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maladie de Ménière ou vertige de Ménière : qu'est-ce que c'est ?",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/la-rubrique-de-la-famille/maladie-de-meniere-ou-vertige-de-meniere-qu-est-ce-que-c-est-376442",
+      "published_date": "2026-10-11T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Affaire Ayoub Aissiou : nouveau rebondissement en Espagne dans la procédure d’extradition",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/ayoub-aissiou-parquet-espagnol-extradition/",
+      "published_date": "2026-10-11T11:51:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fin du cash : le PLF 2027 prévoit un nouvel avantage pour encourager le paiement électronique",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/plf-2027-reduction-impot-paiement-electronique/",
+      "published_date": "2026-10-11T11:24:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Visa de travail en Italie : 165 850 places prévues pour 2027, les Algériens concernés",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/visa-travail-italie-places-2027/",
+      "published_date": "2026-10-11T11:03:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France : Kyliann Bezahaf aux portes d'un grand rendez-vous !",
       "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/pays-bas-hadj-moussa-samuse-avec-son-vis-a-vis-video-300642.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-10T20:18:09Z",
+      "url": "https://www.dzfoot.com/verts-deurope/france-kyliann-bezahaf-aux-portes-dun-grand-rendez-vous-300655.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T09:36:55Z",
       "category": "Diplomacy"
     },
     {
-      "title": "TIRSAM et TOYOTA explorent une coopération industrielle en Algérie",
+      "title": "Jusqu’à 30 000 € pour un mariage blanc : un Algérien écroué à la tête d’un vaste réseau en France",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/tirsam-toyota-cooperation-industrielle-algerie/",
-      "published_date": "2026-10-10T17:14:33Z",
+      "url": "https://www.algerie360.com/mariage-blanc-ile-de-france-reseau-demantele/",
+      "published_date": "2026-10-11T09:35:26Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Réintégration des élèves : Le ministère de l’Éducation accorde un ultime délai",
+      "title": "Perturbations d’Internet : Algérie Télécom annonce un incident technique « imprévu »",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/reintegration-eleves-ministere-education-delai/",
-      "published_date": "2026-10-10T14:53:53Z",
+      "url": "https://www.algerie360.com/algerie-telecom-panne-internet-ip-transit/",
+      "published_date": "2026-10-11T09:25:01Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Algérie Poste : le service client désormais joignable jusqu’à cette heure",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/algerie-poste-service-client-minuit-ccp/",
-      "published_date": "2026-10-10T14:38:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CAN : la CAF prépare un énorme retournement de situation",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/equipes-nationales/can-la-caf-prepare-un-enorme-retournement-de-situation-300597.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-10T13:15:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sahara occidental : les 4 exigences de l’Algérie pour un règlement définitif",
+      "title": "Connexion à internet : Algérie Télécom annonce des perturbations",
       "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/sahara-occidental-les-4-exigences-de-lalgerie-pour-un-reglement-definitif/",
-      "published_date": "2026-10-10T10:00:14Z",
+      "url": "https://www.tsa-algerie.com/connexion-a-internet-algerie-telecom-annonce-des-perturbations/",
+      "published_date": "2026-10-11T09:02:56Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Sahara occidental : les limites de l’accélération diplomatique américaine",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/sahara-occidental-les-limites-de-lacceleration-diplomatique-americaine/",
-      "published_date": "2026-10-10T08:40:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Verts : Mahrez vise un rendez-vous particulier en novembre !",
+      "title": "Mercato : Un géant italien se positionne pour Zorgane !",
       "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/verts-mahrez-vise-un-rendez-vous-particulier-en-novembre-300574.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-10T07:15:14Z",
+      "url": "https://www.dzfoot.com/verts-deurope/mercato-un-geant-italien-se-positionne-pour-zorgane-300650.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T05:39:29Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Pays-Bas : Hadj Moussa ajoute une nouvelle ligne à son palmarès",
+      "title": "Rangers : la situation ne s’arrange pas pour Bouanani",
       "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/pays-bas-hadj-moussa-ajoute-une-nouvelle-ligne-a-son-palmares-300585.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-10T06:49:29Z",
+      "url": "https://www.dzfoot.com/verts-deurope/rangers-la-situation-ne-sarrange-pas-pour-bouanani-300637.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T05:22:46Z",
       "category": "Diplomacy"
     },
     {
-      "title": "France : Titraoui reprend sa baguette, Boudache entre en jeu ! (Vidéo)",
+      "title": "Angleterre : Neghli offre une précieuse victoire à Millwall (vidéo)",
       "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/france-titraoui-reprend-sa-baguette-boudache-entre-en-jeu-video-300581.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-10T06:36:15Z",
+      "url": "https://www.dzfoot.com/verts-deurope/angleterre-neghli-offre-une-precieuse-victoire-a-millwall-video-300628.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T05:12:11Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Algérie : Chiakha, des mots qui en disent long sur le nouveau visage des Verts",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/algerie-chiakha-des-mots-qui-en-disent-long-sur-le-nouveau-visage-des-verts-300562.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-09T20:20:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Algérie  : Déjà un premier forfait pour le stage de novembre ?",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/algerie-deja-un-premier-forfait-pour-le-stage-de-novembre-300566.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-09T20:05:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Convoité par les chercheurs d’or clandestins : Près de 200 kg de mercure argenté saisis dans l’Est",
+      "title": "Revente de pneus à prix excessifs : la Gendarmerie arrête 6 suspects pour spéculation",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/mercure-argente-saisi-constantine-skikda/",
-      "published_date": "2026-10-09T19:52:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar : Un coup d’arrêt inattendu pour Bennacer !",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/qatar-un-coup-darret-inattendu-pour-bennacer-300559.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-10-09T19:49:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "VIDÉO. Algérie : un mariage royal pour l’orpheline qui voulait « seulement deux poulets »",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/mariage-orpheline-ain-defla-solidarite/",
-      "published_date": "2026-10-09T17:28:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un coca halal et solidaire fait polémique en France",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/un-coca-halal-et-solidaire-fait-polemique-en-france/",
-      "published_date": "2026-10-09T17:25:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Algerian, Turkish Justice Ministers Meet in Istanbul to Discuss Strengthening Judicial Cooperation",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/algerian-turkish-justice-ministers-meet-in-istanbul-to-discuss-strengthening-judicial-cooperation",
-      "published_date": "2026-10-09T16:07:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "« Deux poulets » : la demande poignante d’une future mariée algérienne",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/deux-poulets-la-demande-poignante-dune-future-mariee-algerienne/",
-      "published_date": "2026-10-09T14:10:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.algerie360.com/speculation-pneus-constantine-gendarmerie/",
+      "published_date": "2026-10-11T13:45:22Z",
+      "category": "Military"
     },
     {
       "title": "Saïd Chanegriha : l’Algérie n’est pas un « acteur externe » au Sahel",
@@ -207,18 +214,11 @@
       "category": "Military"
     },
     {
-      "title": "Envoi par l’Algérie d’avions Su-30 au Niger : Tebboune dévoile ce qu’il s’est passé",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/envoi-par-lalgerie-davions-su-30-au-niger-tebboune-devoile-ce-quil-sest-passe/",
-      "published_date": "2026-10-04T13:54:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tebboune confirme le transit de navires algériens par le détroit d’Ormuz",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/tebboune-confirme-le-transit-de-navires-algeriens-par-le-detroit-dormuz/",
-      "published_date": "2026-10-04T08:51:19Z",
-      "category": "Military"
+      "title": "Début de production en 2028 : Midad injecte 3 MDS $ dans le projet gazier d’Illizi",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/midad-energy-gaz-illizi-investissement/",
+      "published_date": "2026-10-11T14:57:21Z",
+      "category": "Energy"
     },
     {
       "title": "Mines : l’Algérie veut s’inspirer de l’Ouzbékistan pour accélérer le virage hors hydrocarbures",
@@ -263,11 +263,11 @@
       "category": "Energy"
     },
     {
-      "title": "Algérie – Tunisie : feu vert pour une centrale électrique de 1400 MW",
+      "title": "La filière phosphates en crise : le cœur de l’économie marocaine vacille",
       "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/algerie-tunisie-feu-vert-pour-une-centrale-electrique-de-1400-mw/",
-      "published_date": "2026-10-04T15:06:41Z",
-      "category": "Energy"
+      "url": "https://www.tsa-algerie.com/la-filiere-phosphates-en-crise-le-coeur-de-leconomie-marocaine-vacille/",
+      "published_date": "2026-10-11T06:15:25Z",
+      "category": "Economy"
     },
     {
       "title": "Quand la banane algérienne s’invite au royaume des agrumes à Blida",
@@ -403,11 +403,130 @@
       "category": "Economy"
     },
     {
-      "title": "L’Algérie 2e mondiale des dépenses publiques en éducation",
+      "title": "ورشات البناء والأشغال تحت مجهر مصالح وزارة العمل",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%88%d8%b1%d8%b4%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%a3%d8%b4%d8%ba%d8%a7%d9%84-%d8%aa%d8%ad%d8%aa-%d9%85%d8%ac%d9%87%d8%b1-%d9%85%d8%b5%d8%a7%d9%84%d8%ad-%d9%88",
+      "published_date": "2026-10-11T16:15:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MSF suspend ses opérations",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
+      "published_date": "2026-10-11T15:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "زراعة الموز بجيجل.. نتائج واعدة وآفاق إنتاجية أكبر",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b2-%d8%a8%d8%ac%d9%8a%d8%ac%d9%84-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%88%d8%a7%d8%b9%d8%af%d8%a9-%d9%88%d8%a2%d9%81%d8%a7%d9%82-%d8%a5%d9%86/",
+      "published_date": "2026-10-11T15:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "وزير الداخلية يأمر بإعداد نظام معلوماتي لمتابعة تنفيذ البرامج التنموية",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%8a%d8%a3%d9%85%d8%b1-%d8%a8%d8%a5%d8%b9%d8%af%d8%a7%d8%af-%d9%86%d8%b8%d8%a7%d9%85-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7/",
+      "published_date": "2026-10-11T15:45:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "سعيود يترأس اجتماعًا تنسيقيًا لمتابعة البرامج التنموية والمشاريع الاستراتيجية",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d8%b3%d8%b9%d9%8a%d9%88%d8%af-%d9%8a%d8%aa%d8%b1%d8%a3%d8%b3-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8b%d8%a7-%d8%aa%d9%86%d8%b3%d9%8a%d9%82%d9%8a%d9%8b%d8%a7-%d9%84%d9%85%d8%aa%d8%a7%d8%a8%d8%b9",
+      "published_date": "2026-10-11T15:44:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ولاية الجزائر تستعرض تجربتها في حماية التراث الحضاري بمنتدى عالمي بالصين",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d8%aa%d8%ac%d8%b1%d8%a8%d8%aa%d9%87%d8%a7-%d9%81%d9%8a-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9/",
+      "published_date": "2026-10-11T15:41:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "50% تخفيض على غرامات الجرائم الجمركية لمن يدفعها خلال 15 يوما",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/50-%d8%aa%d8%ae%d9%81%d9%8a%d8%b6-%d8%b9%d9%84%d9%89-%d8%ba%d8%b1%d8%a7%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d8%a6%d9%85-%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a%d8%a9-%d9%84%d9%85%d9%86/",
+      "published_date": "2026-10-11T15:25:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "عطاف: إصلاح مجلس الأمن ضرورة لتحقيق العدالة وضمان تمثيل إفريقيا",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%b9%d8%b7%d8%a7%d9%81-%d8%a5%d8%b5%d9%84%d8%a7%d8%ad-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%b6%d8%b1%d9%88%d8%b1%d8%a9-%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a7%d9%84%d8%b9/",
+      "published_date": "2026-10-11T15:25:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "France : Boudaoui frôle la passe décisive de l’année ! (Vidéo)",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/france-boudaoui-frole-la-passe-decisive-de-lannee-video-300687.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T15:21:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "وزير الاتصال يلتقي مسيري المطابع العمومية والجزائرية للورق",
+      "source": "Echorouk Online",
+      "url": "https://www.echoroukonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84-%d9%8a%d9%84%d8%aa%d9%82%d9%8a-%d9%85%d8%b3%d9%8a%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%b9%d9%85",
+      "published_date": "2026-10-11T15:11:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scandale de logements : 7 ans de prison requis contre l’ex-maire d’Alger centre",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/algerie-depenses-publiques-education-pib/",
-      "published_date": "2026-10-07T19:24:13Z",
-      "category": "Economy"
+      "url": "https://www.algerie360.com/ex-maire-alger-centre-logements-prison/",
+      "published_date": "2026-10-11T15:09:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "وفد برلماني يشارك في المنتدى البرلماني العالمي ببانكوك",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%88%d9%81%d8%af-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d9%8a%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86/",
+      "published_date": "2026-10-11T15:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comment les 22 se sont réunis chez Lyes Derriche (25 juillet 1954)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
+      "published_date": "2026-10-11T15:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "أحكام متفاوتة لـ 7 متهمين بينهم إطارات بـ”إينافور” عن تهم فساد",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a3%d8%ad%d9%83%d8%a7%d9%85-%d9%85%d8%aa%d9%81%d8%a7%d9%88%d8%aa%d8%a9-%d9%84%d9%80-7-%d9%85%d8%aa%d9%87%d9%85%d9%8a%d9%86-%d8%a8%d9%8a%d9%86%d9%87%d9%85-%d8%a5%d8%b7%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a8/",
+      "published_date": "2026-10-11T14:57:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angleterre : Rayan Aït-Nouri toujours mal à City !",
+      "source": "DzFoot",
+      "url": "https://www.dzfoot.com/verts-deurope/angleterre-rayan-ait-nouri-toujours-mal-a-city-300676.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "published_date": "2026-10-11T14:52:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "بلومي يواصل توهّجه بهدف جديد في “البريميرليغ”",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a8%d9%84%d9%88%d9%85%d9%8a-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%aa%d9%88%d9%87%d9%91%d8%ac%d9%87-%d8%a8%d9%87%d8%af%d9%81-%d8%ac%d8%af%d9%8a%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%85/",
+      "published_date": "2026-10-11T14:50:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "وزير الاتصال يبحث الوضعية المالية للمطابع العمومية وشركة الجزائرية للورق",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%a7%d9%84%d9%88%d8%b6%d8%b9%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%84%d9%84%d9%85/",
+      "published_date": "2026-10-11T14:50:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "وضعية آيت نوري تزداد سوءاً",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%88%d8%b6%d8%b9%d9%8a%d8%a9-%d8%a2%d9%8a%d8%aa-%d9%86%d9%88%d8%b1%d9%8a-%d8%aa%d8%b2%d8%af%d8%a7%d8%af-%d8%b3%d9%88%d8%a1%d8%a7%d9%8b/",
+      "published_date": "2026-10-11T14:42:48Z",
+      "category": "Local Events"
     },
     {
       "title": "Des millions de personnes manquent de nourriture durant le Ramadan",
@@ -417,136 +536,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Report au 20 avril du procès des accusés dans l'affaire du groupe Metidji",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/flash-actualite/report-au-20-avril-du-proces-des-accuses-dans-l-affaire-du-groupe-metidji-16",
-      "published_date": "2026-10-11T13:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "L'ex-président Blaise Compaoré condamné à vie pour l'assassinat de Thomas Sankara",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/flash-actualite/l-ex-president-blaise-compaore-condamne-a-vie-pour-l-assassinat-de-thomas-sankara-15",
-      "published_date": "2026-10-11T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sila 2022: Ahmed Benzelikha auteur de \"Les Dupes\" (Casbah éditions)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
-      "published_date": "2026-10-11T12:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sila 2022: Adib Benazzi auteur de \"Marée basse\" (éditions Dalimen)",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
-      "published_date": "2026-10-11T12:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sila 2022: \"Le Hic\" auteur de \"Juste pour le plaisir\"",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
-      "published_date": "2026-10-11T12:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LA BOURGEOISE",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/la-bourgeoise-376435",
-      "published_date": "2026-10-11T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La documentation de “Liberté” conservée",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/actualite/la-documentation-de-liberte-conservee-376439",
-      "published_date": "2026-10-11T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“LES SACRIFICES...”",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/les-sacrifices-376436",
-      "published_date": "2026-10-11T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "À chacun sa prédiction",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/a-chacun-sa-prediction-6149",
-      "published_date": "2026-10-11T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Requiem",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
-      "published_date": "2026-10-11T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le ressenti et le chiffre brut",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
-      "published_date": "2026-10-11T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saisie du parc automobile de Mahieddine Tahkout",
-      "source": "Liberté Algérie",
-      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
-      "published_date": "2026-10-11T11:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "بشار.. توقيف مروّج مخدرات وضبط مايقاربـ 4 كلغ من الكيف المعالج",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a8%d8%b4%d8%a7%d8%b1-_%d8%aa%d9%88%d9%82%d9%8a%d9%81-_%d9%85%d8%b1%d9%88%d9%91%d8%ac_-%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%b6%d8%a8%d8%b7-%d9%85%d8%a7%d9%8a%d9%82%d8%a7%d8%b1%d8%a8%d9%80/",
-      "published_date": "2026-10-10T22:10:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الإكوادور وأوروبا والإمارات.. تفكيك شبكة دولية لتهريب 42.5 طن من الكوكايين داخل حاويات الموز",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%88%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d9%88%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d8%b4%d8%a8/",
-      "published_date": "2026-10-10T21:52:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "وهران.. 7 جرحى في اصطدام بين سيارتين بمسرغين",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%88%d9%87%d8%b1%d8%a7%d9%86-7-_%d8%ac%d8%b1%d8%ad%d9%89-_%d9%81%d9%8a-%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85-%d8%a8%d9%8a%d9%86-%d8%b3%d9%8a%d8%a7%d8%b1%d8%aa%d9%8a%d9%86-%d8%a8%d9%85%d8%b3%d8%b1/",
-      "published_date": "2026-10-10T20:07:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "عنابة.. توقيف 5 أشخاص بينهم فتاة وحجز كمية من الكوكايين والبريغابالين",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b9%d9%86%d8%a7%d8%a8%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d9%81-5-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a8%d9%8a%d9%86%d9%87%d9%85-%d9%81%d8%aa%d8%a7%d8%a9-%d9%88%d8%ad%d8%ac%d8%b2-%d9%83%d9%85%d9%8a/",
-      "published_date": "2026-10-10T20:01:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“الأزمات الدولية” تحذر واشنطن من تجاوز البوليساريو وفرض الحكم الذاتي",
+      "title": "بمشاركة عطاف.. لجنة العشرة للاتحاد الإفريقي تعتمد “وثيقة طرابلس” لإصلاح مجلس الأمن",
       "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%a3%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%85%d9%86-%d8%aa%d8%ac%d8%a7%d9%88%d8%b2",
-      "published_date": "2026-10-10T19:47:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "هل يعود الطاقم الفني لـ “الخضر” إلى زيدان وقندوز وبن بوط؟",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d9%87%d9%84-%d9%8a%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%85-%d8%a7%d9%84%d9%81%d9%86%d9%8a-%d9%84%d9%80-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1-%d8%a5%d9%84%d9%89-%d8%b2%d9%8a%d8%af%d8%a7",
-      "published_date": "2026-10-10T19:46:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza : Médecins du Monde affirme que les critères du génocide sont réunis",
-      "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/gaza-medecins-du-monde-affirme-que-les-criteres-du-genocide-sont-reunis/",
-      "published_date": "2026-10-10T19:40:37Z",
+      "url": "https://www.echoroukonline.com/%d8%a8%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%b9%d8%b7%d8%a7%d9%81-%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d8%a9-%d9%84%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a5%d9%81",
+      "published_date": "2026-10-11T13:56:32Z",
       "category": "Local Events"
     }
   ]
