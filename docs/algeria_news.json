@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:42:34Z",
+  "generated_at": "2026-11-13T03:10:22Z",
   "country": "Algeria",
   "total_stories": 89,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Tlemcen : Le ministre de l’Hydraulique détaille les mesures prises face à la pollution de Oued Mouilah",
+      "source": "Algerie360",
+      "url": "https://www.algerie360.com/oued-mouilah-pollution-bouzegza-tlemcen/",
+      "published_date": "2026-11-12T19:33:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Diabète infantile : un projet algéro-américain de surveillance glycémique",
       "source": "Algerie360",
@@ -144,13 +151,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Voyager avec un visa Schengen coûtera-t-il plus cher ? L’UE prépare une nouvelle taxe",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/frais-visa-schengen-nouvelle-taxe-2027/",
-      "published_date": "2026-11-11T15:19:56Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Menaces contre l’Algérie : El Djeich met en garde contre le triptyque désinformation-sabotage-drogues",
       "source": "TSA Algérie",
       "url": "https://www.tsa-algerie.com/menaces-contre-lalgerie-el-djeich-met-en-garde-contre-le-triptyque-desinformation-sabotage-drogues/",
@@ -263,11 +263,11 @@
       "category": "Military"
     },
     {
-      "title": "Surcharge des poids lourds : des amendes pouvant atteindre 100 000 DA",
+      "title": "COP31 : face au dérèglement climatique, Tebboune expose la riposte de l’Algérie",
       "source": "TSA Algérie",
-      "url": "https://www.tsa-algerie.com/surcharge-des-poids-lourds-des-amendes-pouvant-atteindre-100-000-da/",
-      "published_date": "2026-11-05T20:31:48Z",
-      "category": "Military"
+      "url": "https://www.tsa-algerie.com/cop31-face-au-dereglement-climatique-tebboune-expose-la-riposte-de-lalgerie/",
+      "published_date": "2026-11-12T20:30:03Z",
+      "category": "Energy"
     },
     {
       "title": "Gazoduc transsaharien : financement acté, compagnies russes en vue, ce qui change",
@@ -494,143 +494,143 @@
       "category": "Economy"
     },
     {
-      "title": "Médicaments psychotropes : ce que préconisent les pharmaciens pour sécuriser les ordonnances",
+      "title": "MSF suspend ses opérations",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/msf-suspend-ses-operations-14",
+      "published_date": "2026-11-13T15:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comment les 22 se sont réunis chez Lyes Derriche (25 juillet 1954)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/comment-les-22-se-sont-reunis-chez-lyes-derriche-25-juillet-1954-5",
+      "published_date": "2026-11-13T15:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Des millions de personnes manquent de nourriture durant le Ramadan",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/des-millions-de-personnes-manquent-de-nourriture-durant-le-ramadan-13",
+      "published_date": "2026-11-13T14:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Report au 20 avril du procès des accusés dans l'affaire du groupe Metidji",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/report-au-20-avril-du-proces-des-accuses-dans-l-affaire-du-groupe-metidji-16",
+      "published_date": "2026-11-13T13:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "L'ex-président Blaise Compaoré condamné à vie pour l'assassinat de Thomas Sankara",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/flash-actualite/l-ex-president-blaise-compaore-condamne-a-vie-pour-l-assassinat-de-thomas-sankara-15",
+      "published_date": "2026-11-13T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: Ahmed Benzelikha auteur de \"Les Dupes\" (Casbah éditions)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-ahmed-benzelikha-auteur-de-les-dupes-casbah-editions-4",
+      "published_date": "2026-11-13T12:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: Adib Benazzi auteur de \"Marée basse\" (éditions Dalimen)",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-adib-benazzi-auteur-de-maree-basse-editions-dalimen",
+      "published_date": "2026-11-13T12:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sila 2022: \"Le Hic\" auteur de \"Juste pour le plaisir\"",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/sila-2022-le-hic-auteur-de-juste-pour-le-plaisir-2",
+      "published_date": "2026-11-13T12:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LA BOURGEOISE",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/la-bourgeoise-376435",
+      "published_date": "2026-11-13T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La documentation de “Liberté” conservée",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/actualite/la-documentation-de-liberte-conservee-376439",
+      "published_date": "2026-11-13T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“LES SACRIFICES...”",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/des-gens-et-des-faits/les-sacrifices-376436",
+      "published_date": "2026-11-13T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "À chacun sa prédiction",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/a-chacun-sa-prediction-6149",
+      "published_date": "2026-11-13T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Requiem",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/requiem-6147",
+      "published_date": "2026-11-13T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le ressenti et le chiffre brut",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/editorial/le-ressenti-et-le-chiffre-brut-6146",
+      "published_date": "2026-11-13T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saisie du parc automobile de Mahieddine Tahkout",
+      "source": "Liberté Algérie",
+      "url": "https://www.liberte-algerie.com/videos/saisie-du-parc-automobile-de-mahieddine-tahkout",
+      "published_date": "2026-11-13T11:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الجزائر مركز قيادة ستيلانتيس لـ 10 أسواق إفريقية",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1_-%d9%85%d8%b1%d9%83%d8%b2_-%d9%82%d9%8a%d8%a7%d8%af%d8%a9_-%d8%b3%d8%aa%d9%8a%d9%84%d8%a7%d9%86%d8%aa%d9%8a%d8%b3-%d9%84%d9%80-10-%d8%a3%d8%b3%d9%88%d8%a7/",
+      "published_date": "2026-11-12T22:20:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "الخُضر ينهون تحضيراتهم لمواجهة الطوغو بحصة تكتيكية في سيدي موسى",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ae%d8%b6%d8%b1-%d9%8a%d9%86%d9%87%d9%88%d9%86-%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d8%a7%d8%aa%d9%87%d9%85-%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%ba%d9%88/",
+      "published_date": "2026-11-12T22:16:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "اتحاد العاصمة يجوب شوارع العاصمة احتفالًا بثلاثيته التاريخية",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d9%8a%d8%ac%d9%88%d8%a8-%d8%b4%d9%88%d8%a7%d8%b1%d8%b9-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d8%a7%d8%ad%d8%aa%d9%81/",
+      "published_date": "2026-11-12T21:04:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "هذه تفاصيل الوكالة الوطنية للآثار ومهامها",
+      "source": "Ennahar Online",
+      "url": "https://www.ennaharonline.com/%d9%87%d8%b0%d9%87-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%84%d9%84%d8%a2%d8%ab%d8%a7%d8%b1-%d9%88%d9%85%d9%87/",
+      "published_date": "2026-11-12T21:03:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algérie – Togo : l’hécatombe continue chez les verts",
       "source": "Algerie360",
-      "url": "https://www.algerie360.com/psychotropes-prescription-electronique-pharmaciens-cnop/",
-      "published_date": "2026-11-12T18:34:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الرئيس تبون يتلقى رسالة شكر من نظيره النيجري",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%aa%d8%a8%d9%88%d9%86-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%b4%d9%83%d8%b1-%d9%85%d9%86-%d9%86%d8%b8%d9%8a%d8%b1%d9%87-%d8%a7-2",
-      "published_date": "2026-11-12T18:29:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "تعاون جزائري صيني لتطوير البنية التحتية للموانئ الطاقوية والمنجمية في عنابة وسكيكدة",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a-%d8%b5%d9%8a%d9%86%d9%8a-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%a8%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d8%aa",
-      "published_date": "2026-11-12T18:22:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air Algérie ouvre ses réservations, Paris-Alger dès 426 € et Alger-Paris dès 22 929 DA",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/air-algerie-ete-2027-prix-paris-alger/",
-      "published_date": "2026-11-12T18:04:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الرابطة المحترفة تكشف عن التشكيلة المثالية للجولة التاسعة",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%85/",
-      "published_date": "2026-11-12T18:03:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "رئيس النيجر يشكر الرئيس تبون",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b1%d8%a6%d9%8a%d8%b3_-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-_%d9%8a%d8%b4%d9%83%d8%b1_-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%aa%d8%a8%d9%88%d9%86/",
-      "published_date": "2026-11-12T17:57:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recrutement en Algérie : Nouvelles mesures pour protéger les données personnelles dans les CV",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/anpdp-donnees-personnelles-cv-algerie/",
-      "published_date": "2026-11-12T17:55:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الأول عربيا وإفريقيا: أشغال مصنع المادة الأولية للباراسيتامول بباتنة تبلغ 85 بالمئة",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a7-%d9%88%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%a3%d8%b4%d8%ba%d8%a7%d9%84-%d9%85%d8%b5%d9%86%d8%b9-%d8%a7%d9%84%d9%85%d8%a7%d8%af",
-      "published_date": "2026-11-12T17:40:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الألعاب الأولمبية للشباب.. بثينة بن صالح تهدي الجزائر ميدالية فضية",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a8%d8%ab%d9%8a%d9%86%d8%a9-%d8%a8%d9%86-%d8%b5%d8%a7%d9%84-2/",
-      "published_date": "2026-11-12T17:37:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "من  القصبة إلى السيدة الإفريقية.. الوفد الأمريكي يكتشف التراث الجزائري",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%85%d9%86-%d8%a7%d9%84%d9%82%d8%b5%d8%a8%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d9%88%d9%81%d8%af/",
-      "published_date": "2026-11-12T17:33:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "نادي سطاوالي يكتب التاريخ ويبلغ نصف نهائي تصفيات دوري إفريقيا لكرة السلة",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%86%d8%a7%d8%af%d9%8a-%d8%b3%d8%b7%d8%a7%d9%88%d8%a7%d9%84%d9%8a-%d9%8a%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d9%8a%d8%a8%d9%84%d8%ba-%d9%86%d8%b5%d9%81-%d9%86%d9%87/",
-      "published_date": "2026-11-12T17:30:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "جلاوي يبحث مع شركة صينية تقدم أشغال توسعة ميناء عنابة وآفاق التعاون",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%ac%d9%84%d8%a7%d9%88%d9%8a-%d9%8a%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%aa%d9%82%d8%af%d9%85-%d8%a3%d8%b4%d8%ba%d8%a7%d9%84-%d8%aa%d9%88%d8%b3/",
-      "published_date": "2026-11-12T17:21:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algérie-Togo : Le capitaine Djené Dakonam affiche ses ambitions",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/equipes-nationales/selectionnesa/algerie-togo-le-capitaine-djene-dakonam-affiche-ses-ambitions-302305.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-11-12T17:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "سعداوي يجري لقاءات ثنائية مع نظرائه العرب لتعزيز التعاون التربوي والتعليمي",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b3%d8%b9%d8%af%d8%a7%d9%88%d9%8a-%d9%8a%d8%ac%d8%b1%d9%8a_%d9%84%d9%82%d8%a7%d8%a1%d8%a7%d8%aa-%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-%d9%85%d8%b9-%d9%86%d8%b8%d8%b1%d8%a7%d8%a6%d9%87-%d8%a7%d9%84/",
-      "published_date": "2026-11-12T17:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "عرقاب يبحث مع رئيس شركة صينية إنجاز منشآت ميناء عنابة ومشاريع المحروقات",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%b9%d8%b1%d9%82%d8%a7%d8%a8-%d9%8a%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-%d9%85%d9%86%d8%b4/",
-      "published_date": "2026-11-12T17:04:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norvège : Amin Chiakha enchaîne avec une nouvelle consécration",
-      "source": "DzFoot",
-      "url": "https://www.dzfoot.com/verts-deurope/norvege-amin-chiakha-enchaine-avec-une-nouvelle-consecration-302299.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-      "published_date": "2026-11-12T17:00:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Titre de séjour : les Algériens épargnés par la décision du Conseil constitutionnel, voici pourquoi",
-      "source": "Algerie360",
-      "url": "https://www.algerie360.com/titre-sejour-algeriens-decision-conseil-constitutionnel/",
-      "published_date": "2026-11-12T16:59:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "هام للمستفيدين من معاشات التقاعد الفرنسية",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d9%87%d8%a7%d9%85-_%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%81%d9%8a%d8%af%d9%8a%d9%86_-%d9%85%d9%86_-%d9%85%d8%b9%d8%a7%d8%b4%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%81%d8%b1/",
-      "published_date": "2026-11-12T16:58:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "الجزائر وسوريا تبحثان تطوير التعاون في مجالي القضاء والقانون",
-      "source": "Ennahar Online",
-      "url": "https://www.ennaharonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%aa%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%81/",
-      "published_date": "2026-11-12T16:30:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "عطاف يستقبل نائب وزير الخارجية الروسي غيورغي بوريسينكو",
-      "source": "Echorouk Online",
-      "url": "https://www.echoroukonline.com/%d8%b9%d8%b7%d8%a7%d9%81-%d9%8a%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d9%86%d8%a7%d8%a6%d8%a8-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a",
-      "published_date": "2026-11-12T16:28:41Z",
+      "url": "https://www.algerie360.com/algerie-togo-chikha-belghali-forfaits-radouani/",
+      "published_date": "2026-11-12T21:01:48Z",
       "category": "Local Events"
     }
   ]
